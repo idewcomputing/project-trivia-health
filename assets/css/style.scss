@@ -6,3 +6,13 @@
 h1:first-of-type {
   display: none;
 }
+
+.submission {
+  display: inline-block;
+  width: 150px;
+  heigth: 150px;
+  padding: 7px;
+  background-color: #eee;
+  border: 1px dashed #999;
+  margin-right: 10px;
+}
