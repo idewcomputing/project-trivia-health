@@ -8,11 +8,11 @@ Begin to frame the goals of the design by learning about the stakeholders, the a
 
 | Tasks | Est. Time | ✓ | ✓+ |
 | :--- | :--- | :---: | :---: |
-| **Complete trivia app code experiments** to understand the opportunities and constraints your team will have with your design. | 3 Hours | | |
-| **Complete a competitive analysis** and synthesize findings from the code template experiments.| 1 Hour | | |
-| Research health issues to understand the scope of each problem and the opportunities to affect public awareness.| 1 Hour | | |
-| Conduct interviews in order to develop personas.| 2 Hours | | |
-| Produce initial design concepts. | 1 Hour | | |
+| **Complete the trivia app code experiments.**<br>Each team member will complete the experiments to develop a firm understanding of the opportunities and constraints your team will have with your design. | 3 Hours | | |
+| **Complete a competitive analysis.** <br>Each team member will contribute one competitive analysis of a trivia game and synthesize findings from the code template experiments.| 1 Hour | | |
+| **Research health issues.**<br>Each team member will research at least one health issue to understand the scope of each problem (like trends, statistics, and causal relationships) and the opportunities to affect public awareness. The team can share findings to consider how the trivia game may engage these topics. | 1 Hour | | |
+| **Develop pesonas based on interviews.**<br>Conduct interviews in order to develop personas, one for each team member, that describe the frustrations of stakeholders and opportunities to support meaningful change.| 2 Hours | | |
+| **Sketch initial design concepts.**<br> | 1 Hour | | |
 | Compose a clear problem statement. | 1 Hour | | |
 | Prepare for your team proposal. | 2 Hours | | &nbsp; |
 
