@@ -4,12 +4,13 @@
 ### Develop a web-based trivia app to raise awareness of an important health issue in your community.
 
 ## Discover and Define Problem
-Begin to frame the goals of the design by learning about the stakeholders, the available technology, and features of existing trivia designs. Develop a concept proposal having a clear description of an initial design, the intended audience, and the value to be provided.
+Begin to frame the goals of the design by learning about the stakeholders, the available technology, the features of existing trivia designs, and the scope of health issues in your community. Develop some initial design ideas and compose a clear problem statement that defines what your team will create for whom and the value in will bring. Finally, you will present a proposal to your class and the community for feedback and refinement of your design direction.
 
-| Task | Estimated Time | ✓ | ✓+ |
+| Tasks | Est. Time | ✓ | ✓+ |
 | :--- | :--- | :---: | :---: |
 | Complete trivia app code experiments to understand the opportunities and constraints your team will have with your design. | 3 Hours | | |
 | Complete a competitive analysis and synthesize findings from the code template experiments.| 1 Hour | | |
+| Research health issues to understand the scope of each problem and the opportunities to affect public awareness.| 1 Hour | | |
 | Conduct interviews in order to develop personas.| 2 Hours | | |
 | Produce initial design concepts. | 1 Hour | | |
 | Compose a clear problem statement. | 1 Hour | | |
@@ -23,7 +24,7 @@ Begin to frame the goals of the design by learning about the stakeholders, the a
 ## Design and Build Solution
 Compose a prototype of the solution for a detailed internal review and evaluation by a sample of stakeholders. Prepare any other known assets that will contribute to the development in the next phase. Organize a development strategy to methodically create your solution with efficiency and quality. While executing the development, also prepare for the promotion and launch of the solution. Conduct several tests to ensure all is in working order before an in-class demonstration.
 
-| Task | Estimated Time | ✓ | ✓+ |
+| Tasks | Est. Time | ✓ | ✓+ |
 | :--- | :--- | :---: | :---: |
 | [2-1 Spreadsheet Question Bank](/OUTLINE/2-1-spreadsheet-question-bank.md) | 3 Hours | | |
 | [2-2 Refined Mockups](/OUTLINE/2-2-refined-mockups.md) | 2 Hour | | |
@@ -44,7 +45,7 @@ Compose a prototype of the solution for a detailed internal review and evaluatio
 ## Evaluate and Improve Solution
 After confirmation of the solution’s quality, launch and promote the work. Monitor the use of your solution and gather direct feedback from key stakeholders for minor improvements or recommendations for further development.
 
-| Task | Estimated Time | ✓ | ✓+ |
+| Tasks | Est. Time | ✓ | ✓+ |
 | :--- | :--- | :---: | :---: |
 | [3-1 Plan Evaluation](/OUTLINE/3-1-plan-evaluations.md) | 1 Hours | | |
 | [3-2 Conduct Evaluation](/OUTLINE/3-2-conduct-evaluations.md) | 1 Hour | | |
@@ -61,7 +62,7 @@ After confirmation of the solution’s quality, launch and promote the work. Mon
 
 Now is the time to refine all the details, review the process your team used to develop your app, and plan how you will tell your story to others.
 
-| Task | Estimated Time | ✓ | ✓+ |
+| Tasks | Est. Time | ✓ | ✓+ |
 | :--- | :--- | :---: | :---: |
 | [4-1 Plan and Practice Presentation](/OUTLINE/4-1-plan-and-practice-presentation.md) | 3 Hours | | |
 | [4-2 Prepare Personal Reflection](/OUTLINE/4-2-prepare-personal-reflections.md) | 1 Hour | | |
