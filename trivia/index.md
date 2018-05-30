@@ -2,7 +2,7 @@
 
 > ### Challenge: Develop a web-based trivia app to raise awareness of an important health issue in your community.
 
-## 1 Discover and Define Problem
+## Discover and Define Problem
 Begin to frame the goals of the design by learning about the stakeholders, the available technology, and features of existing trivia designs. Develop a concept proposal having a clear description of an initial design, the intended audience, and the value to be provided.
 
 | Task | Estimated Time | ✓ | ✓+ |
@@ -23,7 +23,7 @@ Begin to frame the goals of the design by learning about the stakeholders, the a
 
 **Final Stage 1 Deliverables: Problem Statement, Technical Review, Stakeholder Peronas, Initial Sketches**
 
-## 2 Design and Build Solution
+## Design and Build Solution
 Compose a prototype of the solution for a detailed internal review and evaluation by a sample of stakeholders. Prepare any other known assets that will contribute to the development in the next phase. Organize a development strategy to methodically create your solution with efficiency and quality. While executing the development, also prepare for the promotion and launch of the solution. Conduct several tests to ensure all is in working order before an in-class demonstration.
 
 | Task | Estimated Time | ✓ | ✓+ |
@@ -44,7 +44,7 @@ Compose a prototype of the solution for a detailed internal review and evaluatio
 
 **Final Stage 2 Deliverables: Prototype, Prototype Evaluation Results, Marketing Card, Live Trivia App Code, **
 
-## 3 Evaluate and Improve Solution
+## Evaluate and Improve Solution
 After confirmation of the solution’s quality, launch and promote the work. Monitor the use of your solution and gather direct feedback from key stakeholders for minor improvements or recommendations for further development.
 
 | Task | Estimated Time | ✓ | ✓+ |
@@ -59,7 +59,7 @@ After confirmation of the solution’s quality, launch and promote the work. Mon
 **RUBRICS: [PERSONAL CONTRIBUTION](/rubrics/personal-contribution.md)** \| **[TEAM COLLABORATION](/rubrics/team-collaboration.md)** \| **[POSTER PREVIEW and DEMONSTRATION](/rubrics/3-demonstration-and-poster-preview.md)**
 **Final Stage 3 Deliverables: Poster, User Testing Results, Question Analysis, Refined Trivia App Code**
 
-## 4 Share Project with Public
+## Share Project with Public
 
 Now is the time to refine all the details, review the process your team used to develop your app, and plan how you will tell your story to others.
 
@@ -69,6 +69,8 @@ Now is the time to refine all the details, review the process your team used to 
 | [4-2 Prepare Personal Reflection](/OUTLINE/4-2-prepare-personal-reflections.md) | 1 Hour | | |
 | [4-3 Present to Public](/OUTLINE/4-3-present.md) | 2 Hours | | |
 | [4-4 Celebrate!](/OUTLINE/4-4-celebrate.md) | 1 Hour | | &nbsp; |
+
+---
 
 **Final Stage 4 Deliverables: Public Presentation, Team Reflection, Personal Reflection**
 
