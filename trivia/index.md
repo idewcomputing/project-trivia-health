@@ -43,7 +43,7 @@ Compose a prototype of the solution for a detailed internal review and evaluatio
 
 **RUBRICS: [PERSONAL CONTRIBUTION](/rubrics/personal-contribution.md)** \| **[TEAM COLLABORATION](/rubrics/team-collaboration.md)** \| **[DEMONSTRATION](/rubrics/2-team-demonstration.md)**
 
-**Final Stage 2 Deliverables: Prototype, Prototype Evaluation Results, Marketing Card, Live Trivia App Code, **
+**Final Stage 2 Deliverables: Prototype, Prototype Evaluation Results, Marketing Card, Live Trivia App Code**
 
 ## Evaluate and Improve Solution
 After confirmation of the solution’s quality, launch and promote the work. Monitor the use of your solution and gather direct feedback from key stakeholders for minor improvements or recommendations for further development.
@@ -58,6 +58,7 @@ After confirmation of the solution’s quality, launch and promote the work. Mon
 | [3-6 Final Class Demonstration and Poster Preview](/OUTLINE/3-6-final-class-demonstration-and-poster-preview.md) | 1 Hour | | &nbsp; |
 
 **RUBRICS: [PERSONAL CONTRIBUTION](/rubrics/personal-contribution.md)** \| **[TEAM COLLABORATION](/rubrics/team-collaboration.md)** \| **[POSTER PREVIEW and DEMONSTRATION](/rubrics/3-demonstration-and-poster-preview.md)**
+
 **Final Stage 3 Deliverables: Poster, User Testing Results, Question Analysis, Refined Trivia App Code**
 
 ## Share Project with Public
