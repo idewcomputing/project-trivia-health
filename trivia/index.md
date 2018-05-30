@@ -8,8 +8,8 @@ Begin to frame the goals of the design by learning about the stakeholders, the a
 
 | Tasks | Est. Time | ✓ | ✓+ |
 | :--- | :--- | :---: | :---: |
-| Complete trivia app code experiments to understand the opportunities and constraints your team will have with your design. | 3 Hours | | |
-| Complete a competitive analysis and synthesize findings from the code template experiments.| 1 Hour | | |
+| **Complete trivia app code experiments** to understand the opportunities and constraints your team will have with your design. | 3 Hours | | |
+| **Complete a competitive analysis** and synthesize findings from the code template experiments.| 1 Hour | | |
 | Research health issues to understand the scope of each problem and the opportunities to affect public awareness.| 1 Hour | | |
 | Conduct interviews in order to develop personas.| 2 Hours | | |
 | Produce initial design concepts. | 1 Hour | | |
@@ -17,7 +17,7 @@ Begin to frame the goals of the design by learning about the stakeholders, the a
 | Prepare for your team proposal. | 2 Hours | | &nbsp; |
 
 **Submissions for Proposal Presentation**
-<div class="submission">Problem<br>Statement</div><div class="submission">Technology<br>Analysis</div><div class="submission">Stakeholder<br>Personas</div><div class="submission">Initial<br>Sketches</div>
+<div class="submission">Problem<br>Statement</div><div class="submission">Competitive<br>Analysis</div><div class="submission">Stakeholder<br>Personas</div><div class="submission">Initial<br>Sketches</div>
 
 **RUBRICS: [PERSONAL CONTRIBUTION](/rubrics/personal-contribution.md)** \| **[TEAM COLLABORATION](/rubrics/team-collaboration.md)** \| **[PROPOSAL](/rubrics/1-team-proposal.md)**
 
