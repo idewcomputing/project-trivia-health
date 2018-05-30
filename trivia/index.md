@@ -23,11 +23,10 @@ Begin to frame the goals of the design by learning about the stakeholders, the a
 **RUBRICS: [PERSONAL CONTRIBUTION](/rubrics/personal-contribution.md)** \| **[TEAM COLLABORATION](/rubrics/team-collaboration.md)** \| **[PROPOSAL](/rubrics/1-team-proposal.md)**
 
 **Submissions for Proposal Presentation**
-
-<span style="width:20%; margin:2%; height: 50px; background-color: #eee; border: 1px dashed #777;">Problem Statement</span>
-<span style="width:20%; margin:2%; height: 50px; background-color: #eee; border: 1px dashed #777;">Technical Review</span>
-<span style="width:20%; margin:2%; height: 50px; background-color: #eee; border: 1px dashed #777;">Stakeholder Personas</span>
-<span style="width:20%; margin:2%; height: 50px; background-color: #eee; border: 1px dashed #777;">Initial Sketches</span>
+<div class="submission">Problem Statement</div>
+<div class="submission">Technical Review</div>
+<div class="submission">Stakeholder Personas</div>
+<div class="submission">Initial Sketches</div>
 
 ## Design and Build Solution
 Compose a prototype of the solution for a detailed internal review and evaluation by a sample of stakeholders. Prepare any other known assets that will contribute to the development in the next phase. Organize a development strategy to methodically create your solution with efficiency and quality. While executing the development, also prepare for the promotion and launch of the solution. Conduct several tests to ensure all is in working order before an in-class demonstration.
