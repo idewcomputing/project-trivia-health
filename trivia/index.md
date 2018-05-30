@@ -4,7 +4,7 @@
 
 ## Project Stages and Deliverables
 
-#### [1 Discover and Define Problem](/1-discover-and-define-problem.md)
+#### [1 Discover and Define Problem](1-discover-and-define-problem.md)
 Begin to frame the goals of the design by learning about the stakeholders, the available technology, and features of existing trivia designs. Develop a concept proposal having a clear description of an initial design, the intended audience, and the value to be provided.
 
 **Final Stage 1 Deliverables: Problem Statement, Technical Review, Stakeholder Peronas, Initial Sketches**
