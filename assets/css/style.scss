@@ -8,11 +8,12 @@ h1:first-of-type {
 }
 
 .submission {
-  display: inline-block;
+  display: inline-flex;
   width: 150px;
   height: 150px;
   padding: 7px;
   background-color: #eee;
   border: 1px dashed #999;
   margin-right: 10px;
+  margin-bottom: 10px;
 }
