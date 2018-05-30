@@ -15,10 +15,10 @@ Begin to frame the goals of the design by learning about the stakeholders, the a
 | Compose a clear problem statement. | 1 Hour | | |
 | Prepare for your team proposal. | 2 Hours | | &nbsp; |
 
-**RUBRICS: [PERSONAL CONTRIBUTION](/rubrics/personal-contribution.md)** \| **[TEAM COLLABORATION](/rubrics/team-collaboration.md)** \| **[PROPOSAL](/rubrics/1-team-proposal.md)**
-
 **Submissions for Proposal Presentation**
 <div class="submission">Problem<br>Statement</div><div class="submission">Technology<br>Analysis</div><div class="submission">Stakeholder<br>Personas</div><div class="submission">Initial<br>Sketches</div>
+
+**RUBRICS: [PERSONAL CONTRIBUTION](/rubrics/personal-contribution.md)** \| **[TEAM COLLABORATION](/rubrics/team-collaboration.md)** \| **[PROPOSAL](/rubrics/1-team-proposal.md)**
 
 ## Design and Build Solution
 Compose a prototype of the solution for a detailed internal review and evaluation by a sample of stakeholders. Prepare any other known assets that will contribute to the development in the next phase. Organize a development strategy to methodically create your solution with efficiency and quality. While executing the development, also prepare for the promotion and launch of the solution. Conduct several tests to ensure all is in working order before an in-class demonstration.
