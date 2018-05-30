@@ -1,6 +1,7 @@
 # Trivia for Impoved Health and Wellness
 
-> ### Challenge: Develop a web-based trivia app to raise awareness of an important health issue in your community.
+##### Challenge
+### Develop a web-based trivia app to raise awareness of an important health issue in your community.
 
 ## Discover and Define Problem
 Begin to frame the goals of the design by learning about the stakeholders, the available technology, and features of existing trivia designs. Develop a concept proposal having a clear description of an initial design, the intended audience, and the value to be provided.
