@@ -126,14 +126,15 @@ Compose a prototype of the solution for a detailed internal review and evaluatio
 ## Phase 3: Evaluate and Improve Solution
 After confirmation of the solution’s quality, launch and promote the work. Monitor the use of your solution and gather direct feedback from key stakeholders for minor improvements or recommendations for further development.
 
-| Tasks | Est. Time | ✓ | ✓+ |
-| :--- | :--- | :---: | :---: |
-| [3-1 Plan Evaluation](/OUTLINE/3-1-plan-evaluations.md) | 1 Hours | | |
-| [3-2 Conduct Evaluation](/OUTLINE/3-2-conduct-evaluations.md) | 1 Hour | | |
-| [3-3 Summarize Evaluation Findings](/OUTLINE/3-3-summarize-evaluation-findings.md) | 1 Hours | | |
-| [3-4 Refine App Based on Evaluation Findings](/OUTLINE/3-4-refine-app.md) | 2 Hours | | |
-| [3-5 Prepare Poster](/OUTLINE/3-5-prepare-poster.md) | 3 Hours | | |
-| [3-6 Final Class Demonstration and Poster Preview](/OUTLINE/3-6-final-class-demonstration-and-poster-preview.md) | 1 Hour | | &nbsp; |
+| Tasks |
+| :--- |
+| **Create an evaluation script.**<br>Plan how you will approach and prompt people to test your trivia app, followed by a clear method of record keeping. You want to learn as much as you can while using people's time wisely and respectfully. |
+| **Execute your evaluation.**<br>Remember, you may want to adjust your evaluation plan based on what you learn from the early participants. |
+| **Summarize your findings and draw conclusions about design refinements.**<br>It is important to determine how you can get the most return (improvements in the trivia game) from the time you have remaining to work.|
+| **Make refinements to your trivia code and visual design as needed.**<br>Determine a plan to iterate through your changes with frequent testing to ensure nothing is unintentionally broken.|
+| **Complete a question analysis.**<br>Prepare summary data and charts on people's responses to your trivia questions and draw some conclusions about the quality of the questions or people's general knowledge about each item.|
+| **Prepare your poster.**<br>Your poster design is important for two reasons. One, it is an opportunity for your team to reflect on the project process and what you have learned. Two, it provides a great visual aid to explaining your work to visitors at the final event.|
+| **Prepare for your in-class poster review and final trivia demonstration.**<br>This is a time to develop a clear narrative to share about your team's work and enjoy sharing it with others. | 1 Hour | | &nbsp; |
 
 **Submissions for Poster Preview and Trivia App Demonstration**
 <div class="submission">Poster</div><div class="submission">User Testing<br>Results</div><div class="submission">Question<br>Analysis</div><div class="submission">Refined Trivia<br>App Code</div>
@@ -146,12 +147,12 @@ After confirmation of the solution’s quality, launch and promote the work. Mon
 
 Now is the time to refine all the details, review the process your team used to develop your app, and plan how you will tell your story to others.
 
-| Tasks | Est. Time | ✓ | ✓+ |
-| :--- | :--- | :---: | :---: |
-| [4-1 Plan and Practice Presentation](/OUTLINE/4-1-plan-and-practice-presentation.md) | 3 Hours | | |
-| [4-2 Prepare Personal Reflection](/OUTLINE/4-2-prepare-personal-reflections.md) | 1 Hour | | |
-| [4-3 Present to Public](/OUTLINE/4-3-present.md) | 2 Hours | | |
-| [4-4 Celebrate!](/OUTLINE/4-4-celebrate.md) | 1 Hour | | &nbsp; |
+| Tasks |
+| :--- |
+| **Refine your team's .**<br>|
+| **Prepare an individual reflection document.**<br>Take the time to review the project process. What went well? What didn't? What did you learn about collaboration? What did you learn about your interests in the practice of designing, coding, and data analysis? What did you learn about personal responsibility? |
+| **Present to the public**<br>Remember, a lot of people will likely be learning about your project for the first time. You will need to tell your story from the beginning in an engaging way. |
+| **Celebrate the fine work you have done!**|
 
 
 <footer>&nbsp;</footer>
