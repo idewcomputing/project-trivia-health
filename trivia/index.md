@@ -113,7 +113,7 @@ Compose a prototype of the solution for a detailed internal review and evaluatio
 | **Complete an evaluation of your prototype.**<br>Each team member should evaluate the prototype by having three people individually play the prototype game. Synthesize your results and define important decisions for your trivia design before coding begins. |
 | **Code a functioning app w/ questions**<br>Outline the features to program by priority and maintain well organized code. |
 | **Create a marketing card.**<br>The marketing card will be a valuable lead-in to your game that could be distributed physically or as a digital image. Think about what your elevator pitch would be for the game and make it visual. |
-| **Begin testing your trivia question in the app in an orderly way.**<br>You may not be ready to get feedback on all the app interactions with "bells and whistles" but you can get valuable feedback on the question and answer formulations. Are they clear and concise? Too easy? Too hard? Interesting? |
+| **Begin testing your trivia questions in the app in an orderly way.**<br>You may not be ready to get feedback on all the app interactions with the "bells and whistles" but you can get valuable feedback on the question and answer formulations. Are they clear and concise? Too easy? Too hard? Interesting? |
 | **Prepare a development review and demonstration**<br>Take this opportunity to wrap-up your trivia app the best you can in order to begin testing your game in the next phase. |
 
 **Submissions for Development Review and Demonstration**
