@@ -34,13 +34,13 @@ Each stage of the project has a set of deliverables, but they lead up to the fol
 
 # Learning Objectives
 
-#### Why Do This Project?
+### Why Do This Project?
 Of course you are going to create an awesome trivia game to benefit others, but you will also get first-hand experience in informatics and computing that reflect great opportunities in the field. You will...
 * **Build skills** in the digital arts, programming, and data.
 * **Collaborate with a team** where tech skills, people skills, and design skills overlap.
 * **Increase your intuition, confidence, and curiosity** in solving problems using a ‘*design, build and test*’ pattern common with scientific thinking, creative thinking, and critical thinking.
 
-#### What's Different About This?
+### What's Different About This?
 
 This is different than learning from a textbook. While you are encouraged to complete tutorials in a particular skill area to build expertise, this project will challenge you in the following ways.
 * **Independent and Interdependent Learning** - You will often have to search out information on your own, experiment, make mistakes, and try again. You will also do this in groups with peers, mentors, teachers, and professionals.
@@ -49,37 +49,21 @@ This is different than learning from a textbook. While you are encouraged to com
 * **Presentation** - Your team will often present work to the class, and occasionally to visitors, to get feedback and share ideas with other teams.
 
 
-#### Key Concepts
+### Key Concepts
 
 You will investigate the following key concepts related to computing.
 
-##### Information Structure
+|Information Structure|Information Presentation|Information Processing|
+|:----|:----|:----|
+|How computers can store and represent information. ```HTML, Spreadsheet Tables, and CSV files``` | How humans see and organize information, and how to create visual interfaces. ```Interface design, CSS, Data Charts, and Illustration``` | How humans make decisions and choose actions, and how computers process data and interactions. ```Interaction Design, Task Analysis, JavaScript, Spreadsheet Functions, Descriptive Statistics``` |
 
-How computers can store and represent information. ```HTML, Spreadsheet Tables, and CSV files```
+### Key Practices
 
-##### Information Presentation
+| Critical and Computational Thinking | Creative Thinking | Collaboration + Communication |
+|:---|:---|:---|
+|You will practice independent-learning to become confident in obtaining valuable information and understanding the leverage computers can offer to solve problems. | You will often use divergent thinking and a “design, build, test” cycle that supports an agile environment rooted in the scientific method and common creative processes. | You will thoughtfully reflect on techniques and attitudes for successful collaboration and communication in project groups, as well as sharing your work with those outside of class.|
 
-How humans see and organize information, and how to create visual interfaces. ```Interface design, CSS, Data Charts, and Illustration```
-
-##### Information Processing
-
-How humans make decisions and choose actions, and how computers process data and interactions. ```Interaction Design, Task Analysis, JavaScript, Spreadsheet Functions, Descriptive Statistics```
-
-#### Key Practices
-
-##### Critical and Computational Thinking
-
-You will practice independent-learning to become confident in obtaining valuable information and understanding the leverage computers can offer to solve problems.
-
-##### Creative Thinking
-
-You will often use divergent thinking and a “design, build, test” cycle that supports an agile environment rooted in the scientific method and common creative processes.
-
-##### Collaboration + Communication
-
-You will thoughtfully reflect on techniques and attitudes for successful collaboration and communication in project groups, as well as sharing your work with those outside of class.
-
-#### Implementation Suggestions
+### Implementation Suggestions
 
 While this digital book guides your project work, below are important suggestions for a well-rounded learning experience using supplemental activities.
 
