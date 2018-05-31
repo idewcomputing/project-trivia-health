@@ -13,16 +13,6 @@ Teams of 3 students will collaborate to build a web-based trivia app. Each team 
 * [CodePen](https://codepen.io) - For code practice exercises. Also, _CodePen Projects_ is a potential choice as a code editor for the trivia project.
 * [Marvel App](https://marvelapp.com) - A digital prototyping tool.
 
-### Basic Activity Rubric
-
-Detailed rubrics for the end of each project phase are provided, along with personal contribution and teamwork rubrics. Below is a basic rubric for evaluating task completion.
-
-| ✕ | ✓- | ✓ | ✓+ |
-| -- | -- | -- | -- |
-| No reasonable effort made. | A reasonable effort was made, but components of the core expectations were not sufficiently met. | The core expectations of the assignment were sufficiently met, but little advanced work was delivered. | The core expectations were met along with compelling advanced work. |
-
-> **Ultimately your work will be assessed by many people during the course and the final presentation. So teams should carefully consider the perspective of visitors that may have no prior knowledge of your project.**
-
 ### Final Deliverables
 
 Each stage of the project has a set of deliverables, but they lead up to the following final deliverables from the team.
@@ -37,8 +27,8 @@ Each stage of the project has a set of deliverables, but they lead up to the fol
   * At least two images or advanced visual effects.
 - **A poster** (2’ x 3’) summarizing the process of creating your trivia app (including artifacts created, like sketches, prototypes etc.), along with defining features of the final design.
 - **A marketing card** (3” x 5”) that promotes your team’s trivia game with classmates and the community.
-- **A well-coordinated presentation** that demonstrates the trivia app and explains the process of developing it to visitors to your school.
-- **A prepared personal perspective** for you, as an individual, to share unique responsibilities and experiences with the project, including how your future goals and interests have been shaped.
+- **A well-coordinated presentation** that demonstrates the trivia app and explains the process of developing it to visitors of your school.
+- **A prepared personal perspective** for you, as an individual, to share your unique responsibilities and experiences during the project, including how your future goals and interests have been shaped.
 
 <footer>&nbsp;</footer>
 
