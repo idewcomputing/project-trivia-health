@@ -3,6 +3,8 @@
 > ##### Challenge
 > ### Develop a web-based trivia app to raise awareness of an important health issue in your community.
 
+**[Learning Objectives](#learning-objectives)** | **[Phase 1: Discover and Define Problem](#phase-1-discover-and-define-problem) | [Phase 2: Design and Build Solution](#phase-2-design-and-build-solution)** | **[Phase 3: Evaluate and Improve Solution](#phase-3-evaluate-and-improve-solution)** | **[Phase 4: Share Project with Public](#phase-4-share-project-with-public)**
+
 ### Teams
 
 Teams of 3 students will collaborate to build a web-based trivia app. Each team will practice collaboration techniques and be responsible for determining member roles, maintaining good communication, ensuring equitable contributions, and providing clear project updates to the class in a timely manner
