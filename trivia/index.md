@@ -32,7 +32,7 @@ Each stage of the project has a set of deliverables, but they lead up to the fol
 
 <footer>&nbsp;</footer>
 
-# Project Background
+# Learning Objectives
 
 #### Why Do This Project?
 Of course you are going to create an awesome trivia game to benefit others, but you will also get first-hand experience in informatics and computing that reflect great opportunities in the field. You will...
