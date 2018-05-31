@@ -35,3 +35,7 @@ blockquote > h5 {
 td {
   min-width: 90px;
 }
+
+@media print {
+    footer {page-break-after: always;}
+}
