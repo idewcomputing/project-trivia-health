@@ -7,12 +7,6 @@
 
 Teams of 3 students will collaborate to build a web-based trivia app. Each team will practice collaboration techniques and be responsible for determining member roles, maintaining good communication, ensuring equitable contributions, and providing clear project updates to the class in a timely manner
 
-### Recommended Production Tools
-
-* [Google Drive](https://drive.google.com) - for team file management and Docs, Sheets, Slides, and Drawings.
-* [CodePen](https://codepen.io) - For code practice exercises. Also, _CodePen Projects_ is a potential choice as a code editor for the trivia project.
-* [Marvel App](https://marvelapp.com) - A digital prototyping tool.
-
 ### Final Deliverables
 
 Each stage of the project has a set of deliverables, but they lead up to the following final deliverables from the team.
@@ -29,6 +23,14 @@ Each stage of the project has a set of deliverables, but they lead up to the fol
 - **A marketing card** (3” x 5”) that promotes your team’s trivia game with classmates and the community.
 - **A well-coordinated presentation** that demonstrates the trivia app and explains the process of developing it to visitors of your school.
 - **A prepared personal perspective** for you, as an individual, to share your unique responsibilities and experiences during the project, including how your future goals and interests have been shaped.
+
+### Recommended Production Tools
+
+* [Google Drive](https://drive.google.com) - for team file management and Docs, Sheets, Slides, and Drawings.
+* [CodePen](https://codepen.io) - For code practice exercises. Also, _CodePen Projects_ is a potential choice as a code editor for the trivia project.
+* [Marvel App](https://marvelapp.com) - A digital prototyping tool.
+* Analog Tools - Of course paper, pencils, markers, whiteboards, and sticky notes are valuable on any day.
+* Digital Camera / Phone - Photographs of sketches, paper notes and whiteboard notes.
 
 <footer>&nbsp;</footer>
 
@@ -47,7 +49,6 @@ This is different than learning from a textbook. While you are encouraged to com
 * **Managing Ambiguity** - Since you will be creating a unique solution, you will not be given a recipe on how to complete many tasks. You will often evaluate the context of problems quickly and decide on a plan of action that makes sense.
 * **Collaborating** - You will have to be a productive team member, fulfilling a role, communicating clearly, and valuing each team member's views at decision points.
 * **Presentation** - Your team will often present work to the class, and occasionally to visitors, to get feedback and share ideas with other teams.
-
 
 ### Key Concepts
 
@@ -104,19 +105,16 @@ Begin to frame the goals of the design by learning about the stakeholders, the a
 ## Phase 2: Design and Build Solution
 Compose a prototype of the solution for a detailed internal review and evaluation by a sample of stakeholders. Prepare any other known assets that will contribute to the development in the next phase. Organize a development strategy to methodically create your solution with efficiency and quality. While executing the development, also prepare for the promotion and launch of the solution. Conduct several tests to ensure all is in working order before an in-class demonstration.
 
-| Tasks | Est. Time | ✓ | ✓+ |
-| :--- | :--- | :---: | :---: |
-| [2-1 Spreadsheet Question Bank](/OUTLINE/2-1-spreadsheet-question-bank.md) | 3 Hours | | |
-| [2-2 Refined Mockups](/OUTLINE/2-2-refined-mockups.md) | 2 Hour | | |
-| [2-3 Construct Prototype](/OUTLINE/2-3-prototype.md) | 2 Hours | | |
-| [2-4 Conduct User Testing](/OUTLINE/2-4-user-testing.md) | 1 Hour | | |
-| [2-5 Prototype Demonstration](/OUTLINE/2-5-prototype-demonstration.md) | 1 Hour | | |
-| [2-6 Plan Development Strategy](/OUTLINE/2-6-plan-development-strategy.md) | 1 Hour | | |
-| [2-7 Code Functioning App w/ Questions](/OUTLINE/2-7-code-functional-app.md) | 4 Hour | | |
-| [2-8 Create Marketing Cards](/OUTLINE/2-8-create-marketing-cards.md) | 1 Hour | | |
-| [2-9 Code Full Interactions](/OUTLINE/2-9-code-interactions.md) | 3 Hour | | |
-| [2-10 Test Questions in Basic App](/OUTLINE/2-10-conduct-question-testing.md) | 2 Hours | | |
-| [2-11 Development Review and Demonstration](/OUTLINE/2-11-demonstration.md) | 2 Hours | | &nbsp; |
+| Tasks |
+| :--- |
+| **Build your question bank.**<br>You will find that creating good trivia questions will take careful thought and multiple iterations. So getting a good start on your question bank will be very beneficial.|
+| **Create refined mockups of your team's trivia concept.**<br>After careful review of your team's sketches and ideas, create digital images that represent examples of your different screen states that can demonstrate the game flow. |
+| **Construct a prototype in Marvel App using your mockups.**<br>Provide enough visual and interactive detail in your prototype to allow thorough testing of each potential user scenario in your game. |
+| **Complete an evaluation of your prototype.**<br>Each team member should evaluate the prototype by having three people individually play the prototype game. Synthesize your results and define important decisions for your trivia design before coding begins. |
+| **Code a functioning app w/ questions**<br>Outline the features to program by priority and maintain well organized code. |
+| **Create a marketing card.**<br>The marketing card will be a valuable lead-in to your game that could be distributed physically or as a digital image. Think about what your elevator pitch would be for the game and make it visual. |
+| **Begin testing your trivia question in the app in an orderly way.**<br>You may not be ready to get feedback on all the app interactions with "bells and whistles" but you can get valuable feedback on the question and answer formulations. Are they clear and concise? Too easy? Too hard? Interesting? |
+| **Prepare a development review and demonstration**<br>Take this opportunity to wrap-up your trivia app the best you can in order to begin testing your game in the next phase. |
 
 **Submissions for Development Review and Demonstration**
 <div class="submission">Digital<br>Prototype</div><div class="submission">Prototype<br>Evaluation</div><div class="submission">Marketing<br>Card</div><div class="submission">Trivia<br>App Code</div>
