@@ -3,9 +3,8 @@
 > ##### Challenge
 > ### Develop a web-based trivia app to raise awareness of an important health issue in your community.
 
-##### QUICK LINKS
-| **[Learning<br>Objectives](#learning-objectives)** | **[Phase 1<br>Discover and Define Problem](#phase-1-discover-and-define-problem)** | **[Phase 2<br>Design and Build Solution](#phase-2-design-and-build-solution)** | **[Phase 3<br>Evaluate and Improve Solution](#phase-3-evaluate-and-improve-solution)** | **[Phase 4<br>Share Project with Public](#phase-4-share-project-with-public)** |
-| :---: | :---: | :---: | :---: | :---: |
+### QUICK LINKS
+**[Learning Objectives](#learning-objectives)** <br>**[Phase 1: Discover and Define Problem](#phase-1-discover-and-define-problem)** <br>**[Phase 2: Design and Build Solution](#phase-2-design-and-build-solution)** <br>**[Phase 3: Evaluate and Improve Solution](#phase-3-evaluate-and-improve-solution)** <br>**[Phase 4: Share Project with Public](#phase-4-share-project-with-public)**
 
 ### Teams
 
