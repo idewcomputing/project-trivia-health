@@ -5,22 +5,7 @@
 
 ### Teams
 
-Teams of 3 students will collaborate to build a web-based trivia app. Each team will practice collaboration techniques and be responsible for :
-* determining member roles
-* maintaining good communication
-* ensuring equitable contributions
-* providing clear project updates to the class in a timely manner
-
-### Criteria
-
-**The trivia game must include the following at a minimum.**
-* At least four categories of questions related to a community health issue(s).
-* At least 40 total questions.
-* A distinct style created by the team.
-* A countdown mechanism that encourages each player’s engagement.
-* A metric that provides the player with feedback on his or her performance.
-* At least two sound effects.
-* At least two images or advanced visual effects.
+Teams of 3 students will collaborate to build a web-based trivia app. Each team will practice collaboration techniques and be responsible for determining member roles, maintaining good communication, ensuring equitable contributions, and providing clear project updates to the class in a timely manner
 
 ### Recommended Production Tools
 
@@ -43,6 +28,13 @@ Detailed rubrics for the end of each project phase are provided, along with pers
 Each stage of the project has a set of deliverables, but they lead up to the following final deliverables from the team.
 
 - **A public trivia app** that has been tested, refined, and prepared for demonstration at the end event.
+  * At least four categories of questions related to a community health issue(s).
+  * At least 40 total questions.
+  * A distinct style created by the team.
+  * A countdown mechanism that encourages each player’s engagement.
+  * A metric that provides the player with feedback on his or her performance.
+  * At least two sound effects.
+  * At least two images or advanced visual effects.
 - **A poster** (2’ x 3’) summarizing the process of creating your trivia app (including artifacts created, like sketches, prototypes etc.), along with defining features of the final design.
 - **A marketing card** (3” x 5”) that promotes your team’s trivia game with classmates and the community.
 - **A well-coordinated presentation** that demonstrates the trivia app and explains the process of developing it to visitors to your school.
