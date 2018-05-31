@@ -92,7 +92,7 @@ Begin to frame the goals of the design by learning about the stakeholders, the a
 | **Research health issues related to your community.**<br>Each team member will research at least one health issue to understand the scope of each problem (like trends, statistics, and causal relationships) and the opportunities to affect public awareness. The team can share findings to consider how the trivia game may engage these topics. | 
 | **Develop pesonas based on interviews.**<br>Conduct interviews in order to develop personas, one for each team member, that describe the frustrations of stakeholders and opportunities to support meaningful change.| 
 | **Sketch initial interaction storyboards.**<br>Each team member create a unique design concept based on your understanding about the stakeholders, the trivia code, and a health topic. | 
-| **Compose a clear problem statement.**<br>As a team, review all of your work and discuss several possible problem statement before settling in on one single problem statement. You will want this statement to be clear, consise, and compelling. It should be supported by your research and anlysis up to this point. | 
+| **Compose a clear problem statement.**<br>As a team, review all of your work and discuss several possible problem statement before settling in on one single problem statement. You will want this statement to be clear, consise, and compelling. It should be supported by your research and analysis up to this point. | 
 | **Prepare for your team proposal.**<br>Refine your artifacts to be included in your proposal submission. Ensure that they present a cohesive story that supports your problem statement and be prepared to discuss your team's work and ideas in more detail. | 
 
 **Submissions for Proposal Presentation**
