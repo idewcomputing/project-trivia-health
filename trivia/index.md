@@ -3,6 +3,8 @@
 > ##### Challenge
 > ### Develop a web-based trivia app to raise awareness of an important health issue in your community.
 
+<footer>&nbsp;</footer>
+
 ## Discover and Define Problem
 Begin to frame the goals of the design by learning about the stakeholders, the available technology, the features of existing trivia designs, and the scope of health issues in your community. Develop some initial design ideas and compose a clear problem statement that defines what your team will create for whom and the value it will bring. Finally, you will present a proposal to your class and the community for feedback and refinement of your design direction.
 
@@ -20,6 +22,8 @@ Begin to frame the goals of the design by learning about the stakeholders, the a
 <div class="submission">Problem<br>Statement</div><div class="submission">Competitive<br>Analysis</div><div class="submission">Stakeholder<br>Personas</div><div class="submission">Initial<br>Sketches</div>
 
 **RUBRICS: [PERSONAL CONTRIBUTION](/rubrics/personal-contribution.md)** \| **[TEAM COLLABORATION](/rubrics/team-collaboration.md)** \| **[PROPOSAL](/rubrics/1-team-proposal.md)**
+
+<footer>&nbsp;</footer>
 
 ## Design and Build Solution
 Compose a prototype of the solution for a detailed internal review and evaluation by a sample of stakeholders. Prepare any other known assets that will contribute to the development in the next phase. Organize a development strategy to methodically create your solution with efficiency and quality. While executing the development, also prepare for the promotion and launch of the solution. Conduct several tests to ensure all is in working order before an in-class demonstration.
@@ -42,6 +46,8 @@ Compose a prototype of the solution for a detailed internal review and evaluatio
 
 **Final Stage 2 Deliverables: Prototype, Prototype Evaluation Results, Marketing Card, Live Trivia App Code**
 
+<footer>&nbsp;</footer>
+
 ## Evaluate and Improve Solution
 After confirmation of the solution’s quality, launch and promote the work. Monitor the use of your solution and gather direct feedback from key stakeholders for minor improvements or recommendations for further development.
 
@@ -58,6 +64,8 @@ After confirmation of the solution’s quality, launch and promote the work. Mon
 
 **Final Stage 3 Deliverables: Poster, User Testing Results, Question Analysis, Refined Trivia App Code**
 
+<footer>&nbsp;</footer>
+
 ## Share Project with Public
 
 Now is the time to refine all the details, review the process your team used to develop your app, and plan how you will tell your story to others.
@@ -69,7 +77,8 @@ Now is the time to refine all the details, review the process your team used to 
 | [4-3 Present to Public](/OUTLINE/4-3-present.md) | 2 Hours | | |
 | [4-4 Celebrate!](/OUTLINE/4-4-celebrate.md) | 1 Hour | | &nbsp; |
 
----
+
+<footer>&nbsp;</footer>
 
 **Final Stage 4 Deliverables: Public Presentation, Team Reflection, Personal Reflection**
 
