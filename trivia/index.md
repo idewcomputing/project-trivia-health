@@ -1,4 +1,4 @@
-# Trivia for Impoved Health and Wellness
+# Project: Trivia *for* Impoved Health *and* Wellness
 
 > ##### Challenge
 > ### Develop a web-based trivia app to raise awareness of an important health issue in your community.
