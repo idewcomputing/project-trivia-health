@@ -86,7 +86,7 @@ While this digital book guides your project work, below are important suggestion
 Begin to frame the goals of the design by learning about the stakeholders, the available technology, the features of existing trivia designs, and the scope of health issues in your community. Develop some initial design ideas and compose a clear problem statement that defines what your team will create for whom and the value it will bring. Finally, you will present a proposal to your class and the community for feedback and refinement of your design direction.
 
 | ✓ | Tasks |
-| :--- | :--- |
+| :---: | :--- |
 | | **Complete the trivia app code experiments.**<br>Each team member complete the experiments to develop a firm understanding of the opportunities and constraints your team will have with your design. | 
 | | **Complete a competitive analysis.** <br>Each team member contribute one competitive analysis of a trivia game and synthesize findings from the code template experiments.| 
 | | **Research health issues related to your community.**<br>Each team member will research at least one health issue to understand the scope of each problem (like trends, statistics, and causal relationships) and the opportunities to affect public awareness. The team can share findings to consider how the trivia game may engage these topics. | 
@@ -106,7 +106,7 @@ Begin to frame the goals of the design by learning about the stakeholders, the a
 Compose a prototype of the solution for a detailed internal review and evaluation by a sample of stakeholders. Prepare any other known assets that will contribute to the development in the next phase. Organize a development strategy to methodically create your solution with efficiency and quality. While executing the development, also prepare for the promotion and launch of the solution. Conduct several tests to ensure all is in working order before an in-class demonstration.
 
 | ✓ | Tasks |
-| :--- | :--- |
+| :---: | :--- |
 | | **Build your question bank.**<br>You will find that creating good trivia questions will take careful thought and multiple iterations. So getting a good start on your question bank will be very beneficial.|
 | | **Create refined mockups of your team's trivia concept.**<br>After careful review of your team's sketches and ideas, create digital images that represent examples of your different screen states that can demonstrate the game flow. |
 | | **Construct a prototype in Marvel App using your mockups.**<br>Provide enough visual and interactive detail in your prototype to allow thorough testing of each potential user scenario in your game. |
@@ -127,7 +127,7 @@ Compose a prototype of the solution for a detailed internal review and evaluatio
 After confirmation of the solution’s quality, launch and promote the work. Monitor the use of your solution and gather direct feedback from key stakeholders for minor improvements or recommendations for further development.
 
 | ✓ | Tasks |
-| :--- | :--- |
+| :---: | :--- |
 | | **Create an evaluation script.**<br>Plan how you will approach and prompt people to test your trivia app, followed by a clear method of record keeping. You want to learn as much as you can while using people's time wisely and respectfully. |
 | | **Execute your evaluation.**<br>Remember, you may want to adjust your evaluation plan based on what you learn from the early participants. |
 | | **Summarize your findings and draw conclusions about design refinements.**<br>It is important to determine how you can get the most return (improvements in the trivia game) from the time you have remaining to work.|
@@ -148,7 +148,7 @@ After confirmation of the solution’s quality, launch and promote the work. Mon
 Now is the time to refine all the details, review the process your team used to develop your app, and plan how you will tell your story to others.
 
 | ✓ | Tasks |
-| :--- | :--- |
+| :---: | :--- |
 | | **Refine your team's plan for presenting based on your in-class review and demonstration.**<br>|
 | | **Prepare an individual reflection document.**<br>Take the time to review the project process. What went well? What didn't? What did you learn about collaboration? What did you learn about your interests in the practice of designing, coding, and data analysis? What did you learn about personal responsibility? |
 | | **Present to the public**<br>Remember, a lot of people will likely be learning about your project for the first time. You will need to tell your story from the beginning in an engaging way. |
