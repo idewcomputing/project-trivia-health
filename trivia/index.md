@@ -8,13 +8,13 @@ Begin to frame the goals of the design by learning about the stakeholders, the a
 
 | Tasks | Est. Time | ✓ | ✓+ |
 | :--- | :--- | :---: | :---: |
-| **Complete the trivia app code experiments.**<br>Each team member will complete the experiments to develop a firm understanding of the opportunities and constraints your team will have with your design. | 3 Hours | | |
-| **Complete a competitive analysis.** <br>Each team member will contribute one competitive analysis of a trivia game and synthesize findings from the code template experiments.| 1 Hour | | |
-| **Research health issues.**<br>Each team member will research at least one health issue to understand the scope of each problem (like trends, statistics, and causal relationships) and the opportunities to affect public awareness. The team can share findings to consider how the trivia game may engage these topics. | 1 Hour | | |
-| **Develop pesonas based on interviews.**<br>Conduct interviews in order to develop personas, one for each team member, that describe the frustrations of stakeholders and opportunities to support meaningful change.| 2 Hours | | |
-| **Sketch initial design concepts.**<br> | 1 Hour | | |
-| Compose a clear problem statement. | 1 Hour | | |
-| Prepare for your team proposal. | 2 Hours | | &nbsp; |
+| **Complete the trivia app code experiments.**<br>Each team member complete the experiments to develop a firm understanding of the opportunities and constraints your team will have with your design. | 3 Hrs | | |
+| **Complete a competitive analysis.** <br>Each team member contribute one competitive analysis of a trivia game and synthesize findings from the code template experiments.| 1 Hr | | |
+| **Research health issues related to your community.**<br>Each team member will research at least one health issue to understand the scope of each problem (like trends, statistics, and causal relationships) and the opportunities to affect public awareness. The team can share findings to consider how the trivia game may engage these topics. | 1 Hr | | |
+| **Develop pesonas based on interviews.**<br>Conduct interviews in order to develop personas, one for each team member, that describe the frustrations of stakeholders and opportunities to support meaningful change.| 2 Hrs | | |
+| **Sketch initial interaction storyboards.**<br>Each team member create a unique design concept based on your understanding about the stakeholders, the trivia code, and a health topic. | 1 Hr | | |
+| **Compose a clear problem statement.**<br>As a team, review all of your work and discuss several possible problem statement before settling in on one single problem statement. You will want this statement to be clear, consise, and compelling. It should be supported by your research and anlysis up to this point. | 1 Hr | | |
+| **Prepare for your team proposal.**<br>Refine your artifacts to be included in your proposal submission. Ensure that they present a cohesive story that supports your problem statement and be prepared to discuss your team's work and ideas in more detail. | 2 Hrs | | &nbsp; |
 
 **Submissions for Proposal Presentation**
 <div class="submission">Problem<br>Statement</div><div class="submission">Competitive<br>Analysis</div><div class="submission">Stakeholder<br>Personas</div><div class="submission">Initial<br>Sketches</div>
