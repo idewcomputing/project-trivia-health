@@ -3,7 +3,7 @@
 > ##### Challenge
 > ### Develop a web-based trivia app to raise awareness of an important health issue in your community.
 
-## Teams
+### Teams
 
 Teams of 3 students will collaborate to build a web-based trivia app. Each team will practice collaboration techniques and be responsible for :
 * determining member roles
@@ -11,7 +11,7 @@ Teams of 3 students will collaborate to build a web-based trivia app. Each team 
 * ensuring equitable contributions
 * providing clear project updates to the class in a timely manner
 
-## Criteria
+### Criteria
 
 **The trivia game must include the following at a minimum.**
 * At least four categories of questions related to a community health issue(s).
@@ -22,14 +22,13 @@ Teams of 3 students will collaborate to build a web-based trivia app. Each team 
 * At least two sound effects.
 * At least two images or advanced visual effects.
 
-## Recommended Production Tools
+### Recommended Production Tools
 
 * [Google Drive](https://drive.google.com) - for team file management and Docs, Sheets, Slides, and Drawings.
 * [CodePen](https://codepen.io) - For code practice exercises. Also, _CodePen Projects_ is a potential choice as a code editor for the trivia project.
-* [Editey](https://editey.com) - An option for project code editing that works through Google Drive.
 * [Marvel App](https://marvelapp.com) - A digital prototyping tool.
 
-## Basic Activity Rubric
+### Basic Activity Rubric
 
 Detailed rubrics for the end of each project phase are provided, along with personal contribution and teamwork rubrics. Below is a basic rubric for evaluating task completion.
 
@@ -37,9 +36,9 @@ Detailed rubrics for the end of each project phase are provided, along with pers
 | -- | -- | -- | -- |
 | No reasonable effort made. | A reasonable effort was made, but components of the core expectations were not sufficiently met. | The core expectations of the assignment were sufficiently met, but little advanced work was delivered. | The core expectations were met along with compelling advanced work. |
 
-#### **Ultimately your work will be assessed by many people during the final presentation. So teams should carefully consider the perspective of visitors that may have no prior knowledge of your project.**
+> **Ultimately your work will be assessed by many people during the course and the final presentation. So teams should carefully consider the perspective of visitors that may have no prior knowledge of your project.**
 
-## Final Deliverables
+### Final Deliverables
 
 Each stage of the project has a set of deliverables, but they lead up to the following final deliverables from the team.
 
