@@ -149,7 +149,7 @@ Now is the time to refine all the details, review the process your team used to 
 
 | Tasks |
 | :--- |
-| **Refine your team's .**<br>|
+| **Refine your team's plan for presenting based on your in-class review and demonstration.**<br>|
 | **Prepare an individual reflection document.**<br>Take the time to review the project process. What went well? What didn't? What did you learn about collaboration? What did you learn about your interests in the practice of designing, coding, and data analysis? What did you learn about personal responsibility? |
 | **Present to the public**<br>Remember, a lot of people will likely be learning about your project for the first time. You will need to tell your story from the beginning in an engaging way. |
 | **Celebrate the fine work you have done!**|
