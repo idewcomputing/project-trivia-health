@@ -7,6 +7,20 @@ h1:first-of-type {
   display: none;
 }
 
+h1, h2 {
+  border-bottom: none;
+}
+
+blockquote {
+  border-left: none;
+  background-color: #ddd;
+  padding: 1em;
+}
+
+blockquote > h5 {
+  margin-bottom: -20px;
+}
+
 .submission {
   display: inline-flex;
   width: 200px;
