@@ -3,9 +3,55 @@
 > ##### Challenge
 > ### Develop a web-based trivia app to raise awareness of an important health issue in your community.
 
+## Teams
+
+Teams of 3 students will collaborate to build a web-based trivia app. Each team will practice collaboration techniques and be responsible for :
+* determining member roles
+* maintaining good communication
+* ensuring equitable contributions
+* providing clear project updates to the class in a timely manner
+
+## Criteria
+
+**The trivia game must include the following at a minimum.**
+* At least four categories of questions related to a community health issue(s).
+* At least 40 total questions.
+* A distinct style created by the team.
+* A countdown mechanism that encourages each player’s engagement.
+* A metric that provides the player with feedback on his or her performance.
+* At least two sound effects.
+* At least two images or advanced visual effects.
+
+## Recommended Production Tools
+
+* [Google Drive](https://drive.google.com) - for team file management and Docs, Sheets, Slides, and Drawings.
+* [CodePen](https://codepen.io) - For code practice exercises. Also, _CodePen Projects_ is a potential choice as a code editor for the trivia project.
+* [Editey](https://editey.com) - An option for project code editing that works through Google Drive.
+* [Marvel App](https://marvelapp.com) - A digital prototyping tool.
+
+## Basic Activity Rubric
+
+Detailed rubrics for the end of each project phase are provided, along with personal contribution and teamwork rubrics. Below is a basic rubric for evaluating task completion.
+
+| ✕ | ✓- | ✓ | ✓+ |
+| -- | -- | -- | -- |
+| No reasonable effort made. | A reasonable effort was made, but components of the core expectations were not sufficiently met. | The core expectations of the assignment were sufficiently met, but little advanced work was delivered. | The core expectations were met along with compelling advanced work. |
+
+#### **Ultimately your work will be assessed by many people during the final presentation. So teams should carefully consider the perspective of visitors that may have no prior knowledge of your project.**
+
+## Final Deliverables
+
+Each stage of the project has a set of deliverables, but they lead up to the following final deliverables from the team.
+
+- **A public trivia app** that has been tested, refined, and prepared for demonstration at the end event.
+- **A poster** (2’ x 3’) summarizing the process of creating your trivia app (including artifacts created, like sketches, prototypes etc.), along with defining features of the final design.
+- **A marketing card** (3” x 5”) that promotes your team’s trivia game with classmates and the community.
+- **A well-coordinated presentation** that demonstrates the trivia app and explains the process of developing it to visitors to your school.
+- **A prepared personal perspective** for you, as an individual, to share unique responsibilities and experiences with the project, including how your future goals and interests have been shaped.
+
 <footer>&nbsp;</footer>
 
-## Discover and Define Problem
+## Phase 1: Discover and Define Problem
 Begin to frame the goals of the design by learning about the stakeholders, the available technology, the features of existing trivia designs, and the scope of health issues in your community. Develop some initial design ideas and compose a clear problem statement that defines what your team will create for whom and the value it will bring. Finally, you will present a proposal to your class and the community for feedback and refinement of your design direction.
 
 | Tasks |
@@ -25,7 +71,7 @@ Begin to frame the goals of the design by learning about the stakeholders, the a
 
 <footer>&nbsp;</footer>
 
-## Design and Build Solution
+## Phase 2: Design and Build Solution
 Compose a prototype of the solution for a detailed internal review and evaluation by a sample of stakeholders. Prepare any other known assets that will contribute to the development in the next phase. Organize a development strategy to methodically create your solution with efficiency and quality. While executing the development, also prepare for the promotion and launch of the solution. Conduct several tests to ensure all is in working order before an in-class demonstration.
 
 | Tasks | Est. Time | ✓ | ✓+ |
@@ -48,7 +94,7 @@ Compose a prototype of the solution for a detailed internal review and evaluatio
 
 <footer>&nbsp;</footer>
 
-## Evaluate and Improve Solution
+## Phase 3: Evaluate and Improve Solution
 After confirmation of the solution’s quality, launch and promote the work. Monitor the use of your solution and gather direct feedback from key stakeholders for minor improvements or recommendations for further development.
 
 | Tasks | Est. Time | ✓ | ✓+ |
@@ -66,7 +112,7 @@ After confirmation of the solution’s quality, launch and promote the work. Mon
 
 <footer>&nbsp;</footer>
 
-## Share Project with Public
+## Phase 4: Share Project with Public
 
 Now is the time to refine all the details, review the process your team used to develop your app, and plan how you will tell your story to others.
 
@@ -79,54 +125,6 @@ Now is the time to refine all the details, review the process your team used to 
 
 
 <footer>&nbsp;</footer>
-
-**Final Stage 4 Deliverables: Public Presentation, Team Reflection, Personal Reflection**
-
-> **Further Breakdown of Public Presentation Components**
-- **A public trivia app** that has been tested and prepared for demonstration at the end event.
-- **A poster** (2’ x 3’) summarizing the process of creating your trivia app (including artifacts created, like sketches, prototypes etc.), along with defining features of the final design.
-- **A marketing card** (3” x 5”) that promotes your team’s trivia game with classmates and the community.
-- **A well-coordinated presentation** that demonstrates the trivia app and explains the process of developing it to visitors to your school.
-- **A prepared personal perspective** for you, as an individual, to share unique responsibilities and experiences with the project, including how your future goals and interests have been shaped.
-
-
-## Teams
-
-Teams of 3 students will collaborate to build a web-based trivia app. Each team will practice collaboration techniques and be responsible for :
-* determining member roles
-* maintaining good communication
-* ensuring equitable contributions
-* providing clear project updates to the class in a timely manner
-
-## Criteria
-
-**The trivia game must include the following at a minimum.**
-* At least four categories of questions covering concepts relevant to students studying for school courses.
-* At least 40 total questions.
-* A distinct style created by the team.
-* A countdown mechanism that encourages each player’s engagement.
-* A metric that provides the player with feedback on his or her performance.
-* At least two sound effects.
-* At least two images.
-
-## Recommended Production Tools
-
-* [Google Drive](https://drive.google.com) - for team file management and Docs, Sheets, Slides, and Drawings.
-* [CodePen](https://codepen.io) - For code practice exercises. Also, _CodePen Projects_ is a potential choice as a code editor for the trivia project.
-* [Editey](https://editey.com) - An option for project code editing that works through Google Drive.
-* [Marvel App](https://marvelapp.com) - A digital prototyping tool.
-
-## Basic Activity Rubric
-
-Rubrics for each stage are provided, along with personal contribution and teamwork rubrics. Below are the basic levels of evaluation that will be used for most rubric items.
-
-| ✕ | ✓- | ✓ | ✓+ |
-| -- | -- | -- | -- |
-| No reasonable effort made. | A reasonable effort was made, but components of the core expectations were not sufficiently met. | The core expectations of the assignment were sufficiently met, but little advanced work was delivered. | The core expectations were met along with compelling advanced work. |
-
-#### **Ultimately your work will be assessed by many people during the final presentation. So teams should carefully consider the perspective of visitors that may have no prior knowledge of your project.**
-
----
 
 
 
