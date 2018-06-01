@@ -25,24 +25,6 @@ Begin to frame the goals of the design by learning about the stakeholders, the a
 **RUBRICS: PERSONAL CONTRIBUTION \| TEAM COLLABORATION \| PROPOSAL**
 {% endhint %}
 {% endtab %}
-
-{% tab title="Phase 2: Discover and Define Problem" %}
-### asdfasfdasf
-
-asldkjf;alskfja;lkfj
-
-a;lsdfka
-{% endtab %}
-
-{% tab title="Phase 3: Discover and Define Problem" %}
-## a;sdfkla;sldfkaj;sfdlk
-
-a;sldkfj;lasf;;lkasf
-
-## asfdasf {#asfdasf}
-
-asfasf  
-{% endtab %}
 {% endtabs %}
 
 
