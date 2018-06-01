@@ -4,13 +4,13 @@ Begin to frame the goals of the design by learning about the stakeholders, the a
 
 | ✓ | Tasks |
 | :---: | :--- |
-|  | **Complete the trivia app code experiments.** Each team member complete the experiments to develop a firm understanding of the opportunities and constraints your team will have with your design. |
-|  | **Complete a competitive analysis.**  Each team member contribute one competitive analysis of a trivia game and synthesize findings from the code template experiments. |
-|  | **Research health issues related to your community.** Each team member will research at least one health issue to understand the scope of each problem \(like trends, statistics, and causal relationships\) and the opportunities to affect public awareness. The team can share findings to consider how the trivia game may engage these topics. |
-|  | **Develop pesonas based on interviews.** Conduct interviews in order to develop personas, one for each team member, that describe the frustrations of stakeholders and opportunities to support meaningful change. |
-|  | **Sketch initial interaction storyboards.** Each team member create a unique design concept based on your understanding about the stakeholders, the trivia code, and a health topic. |
-|  | **Compose a clear problem statement.** As a team, review all of your work and discuss several possible problem statement before settling in on one single problem statement. You will want this statement to be clear, consise, and compelling. It should be supported by your research and analysis up to this point. |
-|  | **Prepare for your team proposal.** Refine your artifacts to be included in your proposal submission. Ensure that they present a cohesive story that supports your problem statement and be prepared to discuss your team's work and ideas in more detail. |
+|  | **Trivia App Code Experiments.** Each team member complete the experiments to develop a firm understanding of the opportunities and constraints your team will have with your design. |
+|  | **Competitive Analysis.**  Each team member contribute one competitive analysis of a trivia game and synthesize findings from the code template experiments. |
+|  | **Health Issues Research.** Each team member will research at least one health issue to understand the scope of each problem \(like trends, statistics, and causal relationships\) and the opportunities to affect public awareness. The team can share findings to consider how the trivia game may engage these topics. |
+|  | **Personas.** Conduct interviews in order to develop personas, one for each team member, that describe the context, needs, and frustrations of stakeholders, revealing opportunities to support meaningful change. |
+|  | **Storyboard Sketches.** Each team member create a unique design concept based on your understanding about the stakeholders, the trivia code, and a health topic. |
+|  | **Problem Statement.** As a team, review all of your work and discuss several possible problem statement before settling in on one single problem statement. You will want this statement to be clear, concise, and compelling. It should be supported by your research and analysis up to this point. |
+|  | **Prepare Team Proposal.** Refine your artifacts to be included in your proposal submission. Ensure that they present a cohesive story that supports your problem statement and be prepared to discuss your team's work and ideas in more detail. |
 
 #### **Submissions for Proposal**
 
