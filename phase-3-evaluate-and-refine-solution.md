@@ -20,3 +20,4 @@ AnalysisRefined Trivia
 App Code
 
 **RUBRICS:** [**PERSONAL CONTRIBUTION**](https://github.com/idewcomputing/fall2018/tree/6f498d0f3999b5340bcbf1d1c83212228dda59d2/rubrics/personal-contribution.md) \| [**TEAM COLLABORATION**](https://github.com/idewcomputing/fall2018/tree/6f498d0f3999b5340bcbf1d1c83212228dda59d2/rubrics/team-collaboration.md) \| [**POSTER PREVIEW and DEMONSTRATION**](https://github.com/idewcomputing/fall2018/tree/6f498d0f3999b5340bcbf1d1c83212228dda59d2/rubrics/3-demonstration-and-poster-preview.md)
+

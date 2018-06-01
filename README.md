@@ -1,14 +1,14 @@
 # Trivia for Improved Health and Wellness
 
-## Challenge
+## Project Challenge
 
-Develop a web-based trivia app to raise awareness of an important health issue in your community.
+#### **Develop a web-based trivia app to raise awareness of an important health issue in your community.**
 
-#### Teams
+## Teams
 
 Teams of 3 students will collaborate to build a web-based trivia app. Each team will practice collaboration techniques and be responsible for determining member roles, maintaining good communication, ensuring equitable contributions, and providing clear project updates to the class in a timely manner
 
-#### Final Deliverables
+## Final Deliverables
 
 Each stage of the project has a set of deliverables, but they lead up to the following final deliverables from the team.
 
@@ -25,7 +25,7 @@ Each stage of the project has a set of deliverables, but they lead up to the fol
 * **A well-coordinated presentation** that demonstrates the trivia app and explains the process of developing it to visitors of your school.
 * **A prepared personal perspective** for you, as an individual, to share your unique responsibilities and experiences during the project, including how your future goals and interests have been shaped.
 
-#### Recommended Production Tools
+## Recommended Production Tools
 
 * [Google Drive](https://drive.google.com) - for team file management and Docs, Sheets, Slides, and Drawings.
 * [CodePen](https://codepen.io) - For code practice exercises. Also, _CodePen Projects_ is a potential choice as a code editor for the trivia project.

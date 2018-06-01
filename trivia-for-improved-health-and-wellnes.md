@@ -8,11 +8,11 @@
 
 #### QUICK LINKS
 
-[**Learning Objectives**](trivia.md#learning-objectives)   
-[**Phase 1: Discover and Define Problem**](trivia.md#phase-1-discover-and-define-problem)   
-[**Phase 2: Design and Build Solution**](trivia.md#phase-2-design-and-build-solution)   
-[**Phase 3: Evaluate and Improve Solution**](trivia.md#phase-3-evaluate-and-improve-solution)   
-[**Phase 4: Share Project with Public**](trivia.md#phase-4-share-project-with-public)
+[**Learning Objectives**](trivia-for-improved-health-and-wellnes.md#learning-objectives)   
+[**Phase 1: Discover and Define Problem**](trivia-for-improved-health-and-wellnes.md#phase-1-discover-and-define-problem)   
+[**Phase 2: Design and Build Solution**](trivia-for-improved-health-and-wellnes.md#phase-2-design-and-build-solution)   
+[**Phase 3: Evaluate and Improve Solution**](trivia-for-improved-health-and-wellnes.md#phase-3-evaluate-and-improve-solution)   
+[**Phase 4: Share Project with Public**](trivia-for-improved-health-and-wellnes.md#phase-4-share-project-with-public)
 
 #### Teams
 
