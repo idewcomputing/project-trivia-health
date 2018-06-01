@@ -5,7 +5,6 @@ After confirmation of the solution’s quality, launch and promote the work. Mon
 | ✓ | Tasks |
 | :---: | :--- |
 |  | **Evaluation.** Plan how you will approach and prompt people to test your trivia app, followed by a clear method of record keeping. You want to learn as much as you can while using people's time wisely and respectfully. Remember, you may want to adjust your evaluation plan based on what you learn from the early participants. |
-|  |  |
 |  | **Evaluation Results.** It is important to determine how you can get the most return \(improvements in the trivia game\) from the time you have remaining to work. |
 |  | **App Refinements.** Determine a plan to iterate through your changes with frequent testing to ensure nothing is unintentionally broken. |
 |  | **Question analysis.** Prepare summary data and charts on people's responses to your trivia questions and draw some conclusions about the quality of the questions or people's general knowledge about each item. |
