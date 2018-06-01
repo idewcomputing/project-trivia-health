@@ -4,7 +4,7 @@ Compose a prototype of the solution for a detailed internal review and evaluatio
 
 | ✓ | Tasks |
 | :---: | :--- |
-|  | **Question bank.** You will find that creating good trivia questions will take careful thought and multiple iterations. So getting a good start on your question bank will be very beneficial. |
+|  | **Question Bank Development.** You will find that creating good trivia questions will take careful thought and multiple iterations. So getting a good start on your question bank will be very beneficial. |
 |  | **Interface Mockups.** After careful review of your team's sketches and ideas, create digital images that represent examples of your different screen states that can demonstrate the game flow. |
 |  | **Interactive Prototype.** Provide enough visual and interactive detail in your prototype to allow thorough testing of each potential user scenario in your game. |
 |  | **Prototype Evaluation.** Each team member should evaluate the prototype by having three people individually play the prototype game. Synthesize your results and define important decisions for your trivia design before coding begins. |
