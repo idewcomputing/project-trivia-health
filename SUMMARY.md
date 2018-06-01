@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Test](README.md)
+* [Project Instructions](README.md)
 * [trivia](trivia.md)
 
