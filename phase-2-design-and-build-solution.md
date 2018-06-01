@@ -8,9 +8,9 @@ Compose a prototype of the solution for a detailed internal review and evaluatio
 |  | **Interface Mockups.** After careful review of your team's sketches and ideas, create digital images that represent examples of your different screen states that can demonstrate the game flow. |
 |  | **Interactive Prototype.** Provide enough visual and interactive detail in your prototype to allow thorough testing of each potential user scenario in your game. |
 |  | **Prototype Evaluation.** Each team member should evaluate the prototype by having three people individually play the prototype game. Synthesize your results and define important decisions for your trivia design before coding begins. |
-|  | **Trivia App Code.** Outline the features to program by priority and maintain well organized code. |
+|  | **Code Development Outline.** Outline the features to program by priority and maintain well organized code. |
 |  | **Marketing card.** The marketing card will be a valuable lead-in to your game that could be distributed physically or as a digital image. Think about what your elevator pitch would be for the game and make it visual. |
-|  | **App Testing.** You may not be ready to get feedback on all the app interactions with the "bells and whistles" but you can get valuable feedback on the question and answer formulations. Are they clear and concise? Too easy? Too hard? Interesting? |
+|  | **Code Testing.** You may not be ready to get feedback on all the app interactions with the "bells and whistles" but you can get valuable feedback on the question and answer formulations. Are they clear and concise? Too easy? Too hard? Interesting? |
 |  | **Prepare Development Review and Demonstration.** Take this opportunity to wrap-up your trivia app the best you can in order to begin testing your game in the next phase. |
 
 #### **Submissions for Development Review and Demonstration**
