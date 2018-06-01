@@ -9,3 +9,10 @@ Now is the time to refine all the details, review the process your team used to 
 |  | **Present to the public** Remember, a lot of people will likely be learning about your project for the first time. You will need to tell your story from the beginning in an engaging way. |
 |  | **Celebrate the fine work you have done!** |
 
+#### Rubrics
+
+* Personal Contribution
+* Team Collaboration
+* Individual Reflection
+* Presentation
+
