@@ -1,5 +1,6 @@
 # Table of contents
 
-* [Project Instructions](README.md)
-* [trivia](trivia.md)
+* [Trivia for Improved Health and Wellness](README.md)
+* [Trivia for Improved Health and Wellnes](trivia.md)
+* [Project Instructions](project-instructions.md)
 

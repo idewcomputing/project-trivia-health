@@ -1,4 +1,4 @@
-# trivia
+# Trivia for Improved Health and Wellnes
 
 ## Project: _Trivia for Impoved Health and Wellness_
 
