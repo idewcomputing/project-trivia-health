@@ -1,4 +1,4 @@
-# Trivia for Improved Health and Wellness
+# Project Challenge and Background
 
 ## Project Challenge
 
