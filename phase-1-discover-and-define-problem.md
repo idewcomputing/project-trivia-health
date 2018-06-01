@@ -5,7 +5,7 @@ Begin to frame the goals of the design by learning about the stakeholders, the a
 | ✓ | Tasks |
 | :---: | :--- |
 |  | **Trivia App Code Experiments.** Each team member complete the experiments to develop a firm understanding of the opportunities and constraints your team will have with your design. |
-|  | **Technology Analysis.**  Each team member contribute one analysis of an existing trivia game and suggest potential app features that appear feasible based on code template knowledge. |
+|  | **Competitive Analysis.**  Each team member contribute one analysis of an existing trivia game and suggest potential app features that appear feasible based on code template knowledge. |
 |  | **Problem Domain Research.** Each team member will research at least one health issue to understand the scope of each problem \(like trends, statistics, and causal relationships\) and the opportunities to affect public awareness. The team can share findings to consider how the trivia game may engage these topics. |
 |  | **Personas.** Conduct interviews in order to develop personas, one for each team member, that describe the context, needs, and frustrations of stakeholders, revealing opportunities to support meaningful change. |
 |  | **Storyboard Sketches.** Each team member create a unique design concept based on your understanding about the stakeholders, the trivia code, and a health topic. |
