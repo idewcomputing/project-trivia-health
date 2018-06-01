@@ -2,5 +2,5 @@
 
 * [Initial page](README.md)
 * [Untitled2](untitled2.md)
-* [trivia](trivia/index.md)
+* [trivia](trivia.md)
 
