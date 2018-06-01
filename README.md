@@ -6,7 +6,7 @@
 
 ## Teams
 
-Teams of 3 students will collaborate to build a web-based trivia app. Each team will practice collaboration techniques and be responsible for determining member roles, maintaining good communication, ensuring equitable contributions, and providing clear project updates to the class in a timely manner
+Teams of 3 students will collaborate to build a web-based trivia app. Each team will be responsible for determining member roles, maintaining good communication, ensuring equitable contributions, and providing clear project updates to the class in a timely manner.
 
 ## Final Deliverables
 
