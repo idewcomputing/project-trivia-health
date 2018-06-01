@@ -12,13 +12,7 @@ Begin to frame the goals of the design by learning about the stakeholders, the a
 |  | **Compose a clear problem statement.** As a team, review all of your work and discuss several possible problem statement before settling in on one single problem statement. You will want this statement to be clear, consise, and compelling. It should be supported by your research and analysis up to this point. |
 |  | **Prepare for your team proposal.** Refine your artifacts to be included in your proposal submission. Ensure that they present a cohesive story that supports your problem statement and be prepared to discuss your team's work and ideas in more detail. |
 
-**Submissions for Proposal Presentation**
-
-Problem  
-StatementCompetitive  
-AnalysisStakeholder  
-PersonasInitial  
-Sketches
+**Submissions for Proposal:**  Problem Statement, Competitive Analysis, Stakeholder Personas, Initial Sketches
 
 **RUBRICS:** [**PERSONAL CONTRIBUTION**](https://github.com/idewcomputing/fall2018/tree/6f498d0f3999b5340bcbf1d1c83212228dda59d2/rubrics/personal-contribution.md) \| [**TEAM COLLABORATION**](https://github.com/idewcomputing/fall2018/tree/6f498d0f3999b5340bcbf1d1c83212228dda59d2/rubrics/team-collaboration.md) \| [**PROPOSAL**](https://github.com/idewcomputing/fall2018/tree/6f498d0f3999b5340bcbf1d1c83212228dda59d2/rubrics/1-team-proposal.md)
 

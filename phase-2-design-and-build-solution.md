@@ -13,13 +13,7 @@ Compose a prototype of the solution for a detailed internal review and evaluatio
 |  | **Begin testing your trivia questions in the app in an orderly way.** You may not be ready to get feedback on all the app interactions with the "bells and whistles" but you can get valuable feedback on the question and answer formulations. Are they clear and concise? Too easy? Too hard? Interesting? |
 |  | **Prepare a development review and demonstration** Take this opportunity to wrap-up your trivia app the best you can in order to begin testing your game in the next phase. |
 
-**Submissions for Development Review and Demonstration**
-
-Digital  
-PrototypePrototype  
-EvaluationMarketing  
-CardTrivia  
-App Code
+**Submissions for Development Review and Demonstration:** Digital Prototype, Prototype Evaluation, Marketing Card, Trivia App Code
 
 **RUBRICS:** [**PERSONAL CONTRIBUTION**](https://github.com/idewcomputing/fall2018/tree/6f498d0f3999b5340bcbf1d1c83212228dda59d2/rubrics/personal-contribution.md) \| [**TEAM COLLABORATION**](https://github.com/idewcomputing/fall2018/tree/6f498d0f3999b5340bcbf1d1c83212228dda59d2/rubrics/team-collaboration.md) \| [**DEMONSTRATION**](https://github.com/idewcomputing/fall2018/tree/6f498d0f3999b5340bcbf1d1c83212228dda59d2/rubrics/2-team-demonstration.md)
 

@@ -12,12 +12,7 @@ After confirmation of the solution’s quality, launch and promote the work. Mon
 |  | **Prepare your poster.** Your poster design is important for two reasons. One, it is an opportunity for your team to reflect on the project process and what you have learned. Two, it provides a great visual aid to explaining your work to visitors at the final event. |
 |  | **Prepare for your in-class poster review and final trivia demonstration.** This is a time to develop a clear narrative to share about your team's work and enjoy sharing it with others. |
 
-**Submissions for Poster Preview and Trivia App Demonstration**
-
-PosterUser Testing  
-ResultsQuestion  
-AnalysisRefined Trivia  
-App Code
+**Submissions for Poster Preview and Trivia App Demonstration:** Poster, User Testing Results, Question Analysis, Refined Trivia App Code
 
 **RUBRICS:** [**PERSONAL CONTRIBUTION**](https://github.com/idewcomputing/fall2018/tree/6f498d0f3999b5340bcbf1d1c83212228dda59d2/rubrics/personal-contribution.md) \| [**TEAM COLLABORATION**](https://github.com/idewcomputing/fall2018/tree/6f498d0f3999b5340bcbf1d1c83212228dda59d2/rubrics/team-collaboration.md) \| [**POSTER PREVIEW and DEMONSTRATION**](https://github.com/idewcomputing/fall2018/tree/6f498d0f3999b5340bcbf1d1c83212228dda59d2/rubrics/3-demonstration-and-poster-preview.md)
 
