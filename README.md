@@ -45,6 +45,5 @@ asfasf
 {% endtab %}
 {% endtabs %}
 
-* [ ] **Test** askdfj;alksj ;alksjdf a;lskjf ;alskdjf a;lsdfkj j
-* [ ] **Test** a;lksfjd;la jal;sfkj ;alksjdf ;
+
 
