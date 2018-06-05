@@ -1,5 +1,9 @@
 # Project Challenge and Background
 
+{% hint style="danger" %}
+UPDATE IN PROGRESS: This document is undergoing a major update. Please check back later. June 5, 2018
+{% endhint %}
+
 ## Project Challenge
 
 #### **Develop a web-based trivia app to raise awareness of an important health issue in your community.**
