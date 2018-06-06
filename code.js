@@ -27,8 +27,9 @@ function setup() {
     var $menu = $(marked(data));
     $menu.find("a").each(function(el) {
       var href = $(this).attr('href');
+      var url = window.location.href.split('?')[0];
       if (href.indexOf("https://") == -1)
-        $(this).attr("href","?page="+href);
+        $(this).attr("href",url+"?page="+href);
     });
     // console.log($menu);
     $(".menu").html($menu);
