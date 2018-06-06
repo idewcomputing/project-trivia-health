@@ -1,7 +1,7 @@
 # Project Challenge and Background
 
 {% hint style="danger" %}
-UPDATE IN PROGRESS: This document is undergoing a major update. Please check back later. June 5, 2018
+UPDATE IN PROGRESS: This document is undergoing a major update. Please check back later. June 6, 2018
 {% endhint %}
 
 ## Project Challenge
