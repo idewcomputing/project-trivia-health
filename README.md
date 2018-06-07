@@ -8,7 +8,7 @@ UPDATE IN PROGRESS: This document is undergoing a major update. Please check bac
 
 #### **Develop a web-based trivia app to raise awareness of an important health issue in your community.**
 
-![](.gitbook/assets/trivia-phases-drawing-alpha.png)
+![](.gitbook/assets/trivia-phases-drawing-alpha%20%281%29.png)
 
 ## Teams
 
