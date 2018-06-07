@@ -8,11 +8,19 @@ UPDATE IN PROGRESS: This document is undergoing a major update. Please check bac
 
 #### **Develop a web-based trivia app to raise awareness of an important health issue in your community.**
 
+## Process
+
+Each project team will follow a process to thoughtfully develop a trivia app while practicing a diverse set of skills in a collaborative environment.  
+
 ![](.gitbook/assets/trivia-phases-drawing-alpha%20%281%29.png)
 
 ## Teams
 
 Teams of 3 students will collaborate to build a web-based trivia app. Each team will be responsible for determining member roles, maintaining good communication, ensuring equitable contributions, and providing clear project updates to the class in a timely manner.
+
+## Technology
+
+Teams will begin with a [**trivia app template**](https://cxd.gitbook.io/code-trivia) as a framework to build their customizations. The template applies HTML/CSS/Javascript as well as a simple cloud database for the trivia question items.
 
 ## Final Deliverables
 
