@@ -4,9 +4,7 @@
 UPDATE IN PROGRESS: This document is undergoing a major update. Please check back later. June 6, 2018
 {% endhint %}
 
-## Project Challenge
-
-![](.gitbook/assets/trivia-health-challenge.png)
+![](.gitbook/assets/trivia-health-challenge-reduced.png)
 
 ## Process
 
