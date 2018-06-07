@@ -6,7 +6,7 @@ UPDATE IN PROGRESS: This document is undergoing a major update. Please check bac
 
 ## Project Challenge
 
-#### **Develop a web-based trivia app to raise awareness of an important health issue in your community.**
+![](.gitbook/assets/trivia-health-challenge.png)
 
 ## Process
 
