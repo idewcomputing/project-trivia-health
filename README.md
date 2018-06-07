@@ -1,6 +1,6 @@
 # Project Challenge and Background
 
-![](.gitbook/assets/trivia-health-challenge-reduced.png)
+![](.gitbook/assets/trivia-health-challenge-reduced%20%282%29.png)
 
 {% hint style="danger" %}
 UPDATE IN PROGRESS: This document is undergoing a major update. Please check back later. June 6, 2018
