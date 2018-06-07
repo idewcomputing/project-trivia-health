@@ -8,6 +8,8 @@ UPDATE IN PROGRESS: This document is undergoing a major update. Please check bac
 
 #### **Develop a web-based trivia app to raise awareness of an important health issue in your community.**
 
+![](.gitbook/assets/trivia-phases-drawing-alpha.png)
+
 ## Teams
 
 Teams of 3 students will collaborate to build a web-based trivia app. Each team will be responsible for determining member roles, maintaining good communication, ensuring equitable contributions, and providing clear project updates to the class in a timely manner.
