@@ -8,7 +8,7 @@ UPDATE IN PROGRESS: This document is undergoing a major update. Please check bac
 
 ## Process
 
-Each project team will follow a process to thoughtfully develop a trivia app while practicing a diverse set of skills in a collaborative environment.  
+Each project team will follow a process to thoughtfully develop a trivia app while practicing [a diverse set of skills in a collaborative environment](https://docs.idew.org/project-trivia-health/#learning-objectives).  
 
 ![](.gitbook/assets/trivia-phases-drawing-alpha%20%281%29.png)
 
