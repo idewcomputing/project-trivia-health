@@ -21,7 +21,7 @@ Each team member will contribute one [**competitive analysis**](https://docs.ide
 ![](../.gitbook/assets/hr.png)
 
 **1.3 Background Research**  
-Each team member will conduct [**background research**](https://docs.idew.org/principles-and-practices/practices/background-research) on at least one health issue to understand the scope of each problem \(like trends, statistics, and causal relationships\) and the opportunities to affect public awareness. It is important to look at each health issue through the lens of public awareness. How knowledgeable is the general public on the topic right now? How much could the community benefit from learning some key information through a trivia game? What is the potential for generating some social movement? Will you have access to the communities greatly affected by the health issue for further research and testing your trivia app? As a team, discuss all the research and determine which health issue will be your focus.  
+Each team member will conduct [**background research**](https://docs.idew.org/principles-and-practices/practices/background-research) on at least one health issue to understand the scope of each problem \(like trends, statistics, and causal relationships\) and the opportunities to affect public awareness. It is important to look at each health issue through the lens of public awareness, since your trivia game can address that, rather than brainstorming cures or new treatment plans etc.  How knowledgeable is the general public on the topic right now? How much could the community benefit from learning some key information through a trivia game? What is the potential for generating some social movement? Will you have access to the communities greatly affected by the health issue for further research and testing your trivia app? As a team, discuss all the research and determine which health issue will be your focus.  
 **❏ Deliverable: Collect your team's background research into a single document or slide set**.
 
 ![](../.gitbook/assets/hr.png)
@@ -50,6 +50,8 @@ Refine your work to be included in your [**proposa**l](https://docs.idew.org/pri
 {% endtab %}
 
 {% tab title="⦿ EXAMPLES" %}
+Use the examples below only as general guides or inspiration for your own work. Many of the examples may not be directly related to the problem or context your team is addressing, but they can provide guidance on format and content.  
+
 ### 1.1 Trivia Code Tutorial
 
    See the [tutorial](https://docs.idew.org/code-trivia/tutorial/overview-of-code-template).
@@ -57,6 +59,10 @@ Refine your work to be included in your [**proposa**l](https://docs.idew.org/pri
 ### **1.2 Competitive Analysis**
 
 ![](../.gitbook/assets/competitiveanalysisexample.png)
+
+### 1.3 Background Research
+
+![](../.gitbook/assets/backgroundresearchnotes.png)
 {% endtab %}
 
 {% tab title="★  RUBRICS" %}
