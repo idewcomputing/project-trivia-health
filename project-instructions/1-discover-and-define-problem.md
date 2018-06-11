@@ -45,7 +45,7 @@ As a team, review all of your work and discuss several possible design direction
 ![](../.gitbook/assets/hr.png)
 
 **1.7 Team Proposal**  
-Refine your work to be included in your [**proposal**](https://docs.idew.org/principles-and-practices/practices/concept-proposals). Ensure that each item contributes to a cohesive story and be prepared to discuss your team's work and ideas in more detail.  
+Refine your previous work as needed to be included in your [**proposal**](https://docs.idew.org/principles-and-practices/practices/concept-proposals). Ensure that each item contributes to a cohesive story and be prepared to discuss your team's work and ideas in more detail.  
 **❏ Deliverable: Your team's proposal as a collection of slides containing your value proposition, competitive analyses, stakeholder personas, and storyboard sketches.**
 {% endtab %}
 
