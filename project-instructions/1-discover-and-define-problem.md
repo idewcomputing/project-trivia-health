@@ -38,15 +38,15 @@ Each team member will create a unique [**interaction storyboard**](https://docs.
 
 ![](../.gitbook/assets/hr.png)
 
-**1.6 Problem Statement**  
-As a team, review all of your work and discuss several possible problem statements before settling in on one single [**problem statement**](https://docs.idew.org/principles-and-practices/practices/problem-statements). You will want this statement to be clear, concise, and compelling. It should be supported by your research and analysis up to this point.  
-**❏ Deliverable: A single page document or slide with your team's problem statement in large font.**
+**1.6 Concept Statement**  
+As a team, review all of your work and discuss several possible design directions before settling in on one single **concept statement**. You will want this statement to be clear, concise, and compelling. It should be supported by your research and analysis up to this point.  
+**❏ Deliverable: A single page document or slide with your team's concept statement in large font.**
 
 ![](../.gitbook/assets/hr.png)
 
 **1.7 Team Proposal**  
 Refine your work to be included in your [**proposa**l](https://docs.idew.org/principles-and-practices/practices/concept-proposals). Ensure that each item contributes to a cohesive story and be prepared to discuss your team's work and ideas in more detail.  
-**❏ Deliverable: Your team's proposal as a collection of slides containing your problem statement, competitive analyses, stakeholder personas, and storyboard sketches.**
+**❏ Deliverable: Your team's proposal as a collection of slides containing your concept statement, competitive analyses, stakeholder personas, and storyboard sketches.**
 {% endtab %}
 
 {% tab title="⦿ EXAMPLES" %}
@@ -75,6 +75,8 @@ Use the examples below only as general guides or inspiration for your own work. 
 ### 1.5 Interaction Storyboard Sketches
 
 ![](../.gitbook/assets/interface-storyboard-example%20%281%29.jpg)
+
+### 1.6 Problem Statement
 {% endtab %}
 
 {% tab title="★  RUBRICS" %}
