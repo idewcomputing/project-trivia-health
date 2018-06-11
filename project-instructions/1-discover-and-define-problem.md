@@ -71,6 +71,10 @@ Use the examples below only as general guides or inspiration for your own work. 
 ![](../.gitbook/assets/interviewscriptexample.png)
 
 ![](../.gitbook/assets/personaexample.png)
+
+### 1.5 Interaction Storyboard Sketches
+
+![](../.gitbook/assets/interface-storyboard-example%20%281%29.jpg)
 {% endtab %}
 
 {% tab title="★  RUBRICS" %}
