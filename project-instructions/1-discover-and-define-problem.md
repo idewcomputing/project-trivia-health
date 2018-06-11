@@ -47,12 +47,16 @@ Refine your work to be included in your [**proposa**l](https://docs.idew.org/pri
 **❏ Deliverable: Your team's proposal as a collection of slides containing your problem statement, competitive analyses, stakeholder personas, and storyboard sketches.**
 {% endtab %}
 
+{% tab title="⦿ EXAMPLES" %}
+
+{% endtab %}
+
 {% tab title="★  RUBRICS" %}
 #### Proposal Content
 
 | ✓-  Below Standard | ✓  At Standard | ✓+  Above Standard |
 | :--- | :--- | :--- |
-| **Problem statement** is provided but is not clear or does not offer a compelling need for the proposed solution. | Problem statement is clear, compelling, and supported by the team's research. | Problem statement is especially convincing and generates anticipation to see the rest of the project. The value to stakeholders is convincing |
+| **Problem statement** is provided but is not clear or does not offer a compelling need for the proposed solution. | Problem statement is clear, compelling, and supported by the team's research. | Problem statement is especially convincing and generates anticipation to see the rest of the project. The value to stakeholders is compelling. |
 | **Competitive analyses** are provided but they reveal limited valuable insight on existing work. | Competitive analyses provide valuable observations about existing work and will contribute to refining the team's solution.  | Competitive analyses demonstrate especially keen insight, recognizing gaps in existing work that the team could offer in their solution. |
 | **Stakeholder personas** are provided but lack clarity and offer limited value in understanding the stakeholders. | Stakeholder personas provide a thoughtful description of people that provides support in designing a valuable solution. | Stakeholder personas were vivid descriptions that will bring exceptional focus to development work.  |
 | **Storyboard sketches** were completed but only brought a vague understanding of the team's initial ideas. | Storyboard sketches were clear and presented concepts that will positively influence upcoming design work. | Storyboard sketches represented exceptionally clear and detailed concepts, that provide continuity with the research and provide great launching points into upcoming design work. |
@@ -64,9 +68,7 @@ Refine your work to be included in your [**proposa**l](https://docs.idew.org/pri
 | **Information** presented in a way that is not always clear, concise, and logical. The presentation style and selection of material  is not fully appropriate for the context. | Information presented in a clear, concise, and logical manner. The selection of material and style is appropriate and effective. | Exceptionally curated information that is delivered in an interesting, coherent and memorable way. |
 | **Delivery**: Eye contact, poise, and appropriate voice-level often lacking. | Vocal clarity, eye-contact, and physical composure maintained throughout. | An exceptionally engaging delivery of content lacking unnecessary distractions from the content. |
 {% endtab %}
-
-{% tab title="✎ EXAMPLES" %}
-
-{% endtab %}
 {% endtabs %}
+
+
 
