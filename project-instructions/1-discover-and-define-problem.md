@@ -46,9 +46,22 @@ As a team, review all of your work and discuss several possible problem statemen
 Refine your work to be included in your [**proposa**l](https://docs.idew.org/principles-and-practices/practices/concept-proposals). Ensure that each item contributes to a cohesive story and be prepared to discuss your team's work and ideas in more detail.  
 **☐ Deliverable: Your team's proposal as a collection of slides containing your problem statement, competitive analyses, stakeholder personas, and storyboard sketches.**
 
-## **RUBRICS**
+# Rubric for Team Proposal
 
-* Personal Contribution
-* Team Collaboration
-* Proposal
+#### Proposal Pre-work
+|✓-  Below Standard|✓  At Standard|✓+  Above Standard|
+|:---|:---|:---|
+|**Deliverables** are generally incomplete and do not fully support the team proposal.|Standard deliverables completed with clarity leading to a coherent team proposal.|Exceptional research completed with a thoughtful and novel perspective leading to the proposal.|
 
+#### Proposal Content
+
+|✓-  Below Standard|✓  At Standard|✓+  Above Standard|
+|:---|:---|:---|
+|**Problem statement** is provided but is not clear or offer a compelling need for the proposed solution.|Problem statement is clear, compelling, and supported by stakeholder feedback.|Problem statement is especially convincing and generates anticipation to see the rest of the project. The value to stakeholders is convincing|
+
+#### Proposal Presentation
+
+|✓-  Below Standard|✓  At Standard|✓+  Above Standard|
+|:---|:---|:---|
+|**Information** presented in a way that is not always clear, concise, and logical. The presentation style and selection of material  is not fully appropriate for the context. |Information presented in a clear, concise, and logical manner. The selection of material and style is appropriate and effective.|Exceptionally curated information that is delivered in an interesting, coherent and memorable way.|
+|**Delivery**: Eye contact, poise, and appropriate voice-level often lacking.|Vocal clarity, eye-contact, and physical composure maintained throughout.|An exceptionally engaging delivery of content lacking unnecessary distractions from the content. |
