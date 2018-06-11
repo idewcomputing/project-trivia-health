@@ -4,7 +4,7 @@ Begin to frame the goals of the design by learning about the stakeholders, the a
 
 ![](../.gitbook/assets/trivia-phase-1-drawing-alpha-reduced.png)
 
-### **✓**  TASKS
+## **✓**  TASKS
 
 **1.1 Trivia Code Tutorial**  
 Each team member will complete the exercises in [**the code tutorial**](https://docs.idew.org/code-trivia/tutorial/overview-of-code-template) to develop a firm understanding of the opportunities and constraints your team will have with your design.  
@@ -46,7 +46,7 @@ As a team, review all of your work and discuss several possible problem statemen
 Refine your work to be included in your [**proposa**l](https://docs.idew.org/principles-and-practices/practices/concept-proposals). Ensure that each item contributes to a cohesive story and be prepared to discuss your team's work and ideas in more detail.  
 **☐ Deliverable: Your team's proposal as a collection of slides containing your problem statement, competitive analyses, stakeholder personas, and storyboard sketches.**
 
-### Rubric for Team Proposal
+## Rubric for Team Proposal
 
 #### Proposal Content
 
