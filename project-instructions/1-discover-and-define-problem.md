@@ -63,6 +63,12 @@ Use the examples below only as general guides or inspiration for your own work. 
 ### 1.3 Background Research
 
 ![](../.gitbook/assets/backgroundresearchnotes.png)
+
+### 1.4 Personas
+
+![](../.gitbook/assets/interviewscriptexample.png)
+
+![](../.gitbook/assets/personaexample.png)
 {% endtab %}
 
 {% tab title="★  RUBRICS" %}
