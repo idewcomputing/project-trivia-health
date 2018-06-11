@@ -50,7 +50,13 @@ Refine your work to be included in your [**proposa**l](https://docs.idew.org/pri
 {% endtab %}
 
 {% tab title="⦿ EXAMPLES" %}
+### 1.1 Trivia Code Tutorial
 
+   See the [tutorial](https://docs.idew.org/code-trivia/tutorial/overview-of-code-template).
+
+### **1.2 Competitive Analysis**
+
+![](../.gitbook/assets/competitiveanalysisexample.png)
 {% endtab %}
 
 {% tab title="★  RUBRICS" %}
