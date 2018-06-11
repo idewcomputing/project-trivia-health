@@ -8,18 +8,6 @@ Begin to frame the goals of the design by learning about the stakeholders, the a
 {% endtab %}
 
 {% tab title="✓  TASKS" %}
-{% hint style="success" %}
-**1.1 Trivia Code Tutorial**  
-Each team member will complete the exercises in [**the code tutorial**](https://docs.idew.org/code-trivia/tutorial/overview-of-code-template) to develop a firm understanding of the opportunities and constraints your team will have with your design.  
-**❏ Deliverable: Demonstrate that you have completed each exercise in the tutorial.**
-{% endhint %}
-
-{% hint style="success" %}
-**1.2 Competitive Analysis**  
-Each team member will contribute one [**competitive analysis**](https://docs.idew.org/principles-and-practices/practices/competitive-analysis) of an existing trivia game that is either available on the Web or as an app. Even though you are not investigating direct competition, you will find the analyses valuable in discovering good ideas that you may incorporate into your team's solution. Keep the context of your game in mind, because this may influence what features are appropriate for a game focused on a health issue.  
-**❏ Deliverable: Collect your team's competitive analyses into a single document or slide set**.
-{% endhint %}
-
 **1.1 Trivia Code Tutorial**  
 Each team member will complete the exercises in [**the code tutorial**](https://docs.idew.org/code-trivia/tutorial/overview-of-code-template) to develop a firm understanding of the opportunities and constraints your team will have with your design.  
 **❏ Deliverable: Demonstrate that you have completed each exercise in the tutorial.**
