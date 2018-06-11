@@ -50,7 +50,9 @@ Refine your work to be included in your [**proposa**l](https://docs.idew.org/pri
 {% endtab %}
 
 {% tab title="⦿ EXAMPLES" %}
-Use the examples below only as general guides or inspiration for your own work. Many of the examples **may not be directly related to the problem or context your team is addressing**, but they can provide guidance on format and content.  
+{% hint style="warning" %}
+Use the examples below only as general guides or inspiration for your own work. Many of the examples may not be directly related to the problem or context your team is addressing, but they can provide guidance on format and content.
+{% endhint %}
 
 ### 1.1 Trivia Code Tutorial
 
