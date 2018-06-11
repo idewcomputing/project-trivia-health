@@ -47,7 +47,7 @@ Refine your work to be included in your [**proposa**l](https://docs.idew.org/pri
 **❏ Deliverable: Your team's proposal as a collection of slides containing your problem statement, competitive analyses, stakeholder personas, and storyboard sketches.**
 {% endtab %}
 
-{% tab title="★  Rubrics" %}
+{% tab title="★  RUBRICS" %}
 #### Proposal Content
 
 | ✓-  Below Standard | ✓  At Standard | ✓+  Above Standard |
@@ -63,6 +63,10 @@ Refine your work to be included in your [**proposa**l](https://docs.idew.org/pri
 | :--- | :--- | :--- |
 | **Information** presented in a way that is not always clear, concise, and logical. The presentation style and selection of material  is not fully appropriate for the context. | Information presented in a clear, concise, and logical manner. The selection of material and style is appropriate and effective. | Exceptionally curated information that is delivered in an interesting, coherent and memorable way. |
 | **Delivery**: Eye contact, poise, and appropriate voice-level often lacking. | Vocal clarity, eye-contact, and physical composure maintained throughout. | An exceptionally engaging delivery of content lacking unnecessary distractions from the content. |
+{% endtab %}
+
+{% tab title="✎ EXAMPLES" %}
+
 {% endtab %}
 {% endtabs %}
 
