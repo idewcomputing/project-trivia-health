@@ -14,10 +14,3 @@
 * [Trivia Code Docs](https://cxd.gitbook.io/code-trivia)
 * [Principles & Practices](https://docs.idew.org/principles-and-practices/)
 
-## Examples
-
-* [Phase 1 Examples](examples/phase-1-examples.md)
-* [Phase 2 Examples](examples/phase-2-examples.md)
-* [Phase 3 Examples](examples/phase-3-examples.md)
-* [Phase 4 Examples](examples/phase-4-examples.md)
-
