@@ -1,10 +1,12 @@
 # 1 Discover & Define Problem
 
-Begin to frame the goals of the design by learning about the stakeholders, the available technology, the features of existing trivia designs, and the scope of health issues in your community. Develop some initial design ideas and compose a clear problem statement that defines what your team will create for whom and the value it will bring. Finally, you will present a proposal to your class and the community for feedback and refinement of your design direction. [Print-friendly version](https://idewcomputing.github.io/project-trivia-health/project-instructions/1.-discover-and-define-problem).
-
+{% tabs %}
+{% tab title="OVERVIEW" %}
 ![](../.gitbook/assets/trivia-phase-1-drawing-alpha-reduced.png)
 
-{% tabs %}
+Begin to frame the goals of the design by learning about the stakeholders, the available technology, the features of existing trivia designs, and the scope of health issues in your community. Develop some initial design ideas and compose a clear problem statement that defines what your team will create for whom and the value it will bring. Finally, you will present a proposal to your class and the community for feedback and refinement of your design direction.
+{% endtab %}
+
 {% tab title="✓  TASKS" %}
 **1.1 Trivia Code Tutorial**  
 Each team member will complete the exercises in [**the code tutorial**](https://docs.idew.org/code-trivia/tutorial/overview-of-code-template) to develop a firm understanding of the opportunities and constraints your team will have with your design.  
