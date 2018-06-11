@@ -4,7 +4,7 @@ Begin to frame the goals of the design by learning about the stakeholders, the a
 
 ![](../.gitbook/assets/trivia-phase-1-drawing-alpha-reduced.png)
 
-#### **✓** TASKS
+#### **✓**  TASKS
 
 **1.1 Trivia App Code - Tutorial.**  
 Each team member will complete the exercises in [**the code tutorial**](https://docs.idew.org/code-trivia/tutorial/overview-of-code-template) to develop a firm understanding of the opportunities and constraints your team will have with your design.  
