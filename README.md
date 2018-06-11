@@ -105,7 +105,3 @@ While this digital book guides your project work, below are important suggestion
 {% endtab %}
 {% endtabs %}
 
-## 
-
-## 
-
