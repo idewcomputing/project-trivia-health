@@ -4,8 +4,8 @@ Begin to frame the goals of the design by learning about the stakeholders, the a
 
 ![](../.gitbook/assets/trivia-phase-1-drawing-alpha-reduced.png)
 
-## **✓**  TASKS
-
+{% tabs %}
+{% tab title="✓  TASKS" %}
 **1.1 Trivia Code Tutorial**  
 Each team member will complete the exercises in [**the code tutorial**](https://docs.idew.org/code-trivia/tutorial/overview-of-code-template) to develop a firm understanding of the opportunities and constraints your team will have with your design.  
 **❏ Deliverable: Demonstrate that you have completed each exercise in the tutorial.**
@@ -45,9 +45,9 @@ As a team, review all of your work and discuss several possible problem statemen
 **1.7 Team Proposal**  
 Refine your work to be included in your [**proposa**l](https://docs.idew.org/principles-and-practices/practices/concept-proposals). Ensure that each item contributes to a cohesive story and be prepared to discuss your team's work and ideas in more detail.  
 **❏ Deliverable: Your team's proposal as a collection of slides containing your problem statement, competitive analyses, stakeholder personas, and storyboard sketches.**
+{% endtab %}
 
-## ★  Rubrics for Team Proposal
-
+{% tab title="★  Rubrics" %}
 #### Proposal Content
 
 | ✓-  Below Standard | ✓  At Standard | ✓+  Above Standard |
@@ -63,4 +63,6 @@ Refine your work to be included in your [**proposa**l](https://docs.idew.org/pri
 | :--- | :--- | :--- |
 | **Information** presented in a way that is not always clear, concise, and logical. The presentation style and selection of material  is not fully appropriate for the context. | Information presented in a clear, concise, and logical manner. The selection of material and style is appropriate and effective. | Exceptionally curated information that is delivered in an interesting, coherent and memorable way. |
 | **Delivery**: Eye contact, poise, and appropriate voice-level often lacking. | Vocal clarity, eye-contact, and physical composure maintained throughout. | An exceptionally engaging delivery of content lacking unnecessary distractions from the content. |
+{% endtab %}
+{% endtabs %}
 
