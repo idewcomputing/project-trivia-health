@@ -4,7 +4,7 @@
 {% tab title="OVERVIEW" %}
 ![](../.gitbook/assets/trivia-phase-1-drawing-alpha-reduced.png)
 
-Begin to frame the goals of the design by learning about the stakeholders, the available technology, the features of existing trivia designs, and the scope of health issues in your community. Develop some initial design ideas and compose a clear problem statement that defines what your team will create for whom and the value it will bring. Finally, you will present a proposal to your class and the community for feedback and refinement of your design direction.
+Begin to frame the goals of the design by learning about the stakeholders, the available technology, the features of existing trivia designs, and the scope of health issues in your community. Develop some initial design ideas and compose a clear value proposition that defines what your team will create for whom and the value it will bring. Finally, you will present a proposal to your class and the community for feedback and refinement of your design direction.
 {% endtab %}
 
 {% tab title="✓  TASKS" %}
