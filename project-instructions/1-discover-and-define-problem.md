@@ -4,7 +4,7 @@ Begin to frame the goals of the design by learning about the stakeholders, the a
 
 ![](../.gitbook/assets/trivia-phase-1-drawing-alpha-reduced.png)
 
-#### **✓**  TASKS
+### **✓**  TASKS
 
 **1.1 Trivia App Code - Tutorial.**  
 Each team member will complete the exercises in [**the code tutorial**](https://docs.idew.org/code-trivia/tutorial/overview-of-code-template) to develop a firm understanding of the opportunities and constraints your team will have with your design.  
@@ -24,14 +24,14 @@ Each team member will contribute one [**competitive analysis**](https://docs.ide
 |  | **1.6 Problem Statement.** As a team, review all of your work and discuss several possible problem statements before settling in on one single [**problem statement**](https://docs.idew.org/principles-and-practices/practices/problem-statements). You will want this statement to be clear, concise, and compelling. It should be supported by your research and analysis up to this point. **Deliverable: A single page document or slide with your team's problem statement in large font.** |
 |  | **1.7 Team Proposal.** Refine your work to be included in your [**proposa**l](https://docs.idew.org/principles-and-practices/practices/concept-proposals). Ensure that each item contributes to a cohesive story and be prepared to discuss your team's work and ideas in more detail. **Deliverable: A collection of slides with the proposal content outlined below.** |
 
-#### **CONTENT for PROPOSAL**
+### **CONTENT for PROPOSAL**
 
 * Problem Statement
 * Competitive Analysis
 * Stakeholder Personas
 * Initial Sketches
 
-#### **RUBRICS**
+### **RUBRICS**
 
 * Personal Contribution
 * Team Collaboration
