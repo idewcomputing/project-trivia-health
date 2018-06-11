@@ -44,14 +44,7 @@ As a team, review all of your work and discuss several possible problem statemen
 
 **1.7 Team Proposal**  
 Refine your work to be included in your [**proposa**l](https://docs.idew.org/principles-and-practices/practices/concept-proposals). Ensure that each item contributes to a cohesive story and be prepared to discuss your team's work and ideas in more detail.  
-**☐ Deliverable: A collection of slides with the proposal content outlined below.**
-
-## **CONTENT for PROPOSAL**
-
-* Problem Statement
-* Competitive Analysis
-* Stakeholder Personas
-* Initial Sketches
+**☐ Deliverable: Your team's proposal as a collection of slides containing your problem statement, competitive analyses, stakeholder personas, and storyboard sketches.**
 
 ## **RUBRICS**
 
