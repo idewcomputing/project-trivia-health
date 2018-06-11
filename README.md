@@ -1,11 +1,15 @@
 # Project Challenge and Background
 
-![](.gitbook/assets/trivia-health-challenge-reduced%20%282%29.png)
-
 {% hint style="danger" %}
 UPDATE IN PROGRESS: This document is undergoing a major update. Please check back later. June 6, 2018
 {% endhint %}
 
+{% tabs %}
+{% tab title="★ CHALLENGE" %}
+![](.gitbook/assets/trivia-health-challenge-reduced%20%282%29.png)
+{% endtab %}
+
+{% tab title="▶︎ PROJECT OVERVIEW" %}
 ## Process
 
 Each project team will follow a process to thoughtfully develop a trivia app while practicing [a diverse set of skills in a collaborative environment](./#learning-objectives).  
@@ -44,9 +48,9 @@ Each stage of the project has a set of deliverables, but they lead up to the fol
 * [Marvel App](https://marvelapp.com) - A digital prototyping tool.
 * Analog Tools - Of course paper, pencils, markers, whiteboards, and sticky notes are valuable on any day.
 * Digital Camera / Phone - Photographs of sketches, paper notes and whiteboard notes.
+{% endtab %}
 
-## Learning Objectives
-
+{% tab title="✓ OBJECTIVES" %}
 #### Why Do This Project?
 
 Of course you are going to create an awesome trivia game to benefit others, but you will also get first-hand experience in informatics and computing that reflect great opportunities in the field. You will...
@@ -77,8 +81,10 @@ You will investigate the following key concepts related to computing.
 | Critical and Computational Thinking | Creative Thinking | Collaboration + Communication |
 | :--- | :--- | :--- |
 | You will practice independent-learning to become confident in obtaining valuable information and understanding the leverage computers can offer to solve problems. | You will often use divergent thinking and a “design, build, test” cycle that supports an agile environment rooted in the scientific method and common creative processes. | You will thoughtfully reflect on techniques and attitudes for successful collaboration and communication in project groups, as well as sharing your work with those outside of class. |
+{% endtab %}
 
-#### Implementation Suggestions
+{% tab title="● BEYOND THE PROJECT" %}
+### Beyond the Project
 
 While this digital book guides your project work, below are important suggestions for a well-rounded learning experience using supplemental activities.
 
@@ -94,4 +100,10 @@ While this digital book guides your project work, below are important suggestion
 | Monday | Tuesday | Wednesday | Thursday | Friday |
 | --- | --- | --- | --- | --- |
 | Project | Project | Project | Independent Skills | Visitors & Exploration Reports |
+{% endtab %}
+{% endtabs %}
+
+## 
+
+## 
 
