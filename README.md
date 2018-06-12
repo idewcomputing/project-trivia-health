@@ -14,7 +14,7 @@ More background information on health challenge coming...
 {% tab title="▶︎ PROJECT OVERVIEW" %}
 ## Process
 
-Each project team will follow a process to thoughtfully develop a trivia app while practicing [a diverse set of skills in a collaborative environment](./#learning-objectives).  
+Each project team will follow a process to thoughtfully develop a trivia app while practicing [a diverse set of skills in a collaborative environment](https://docs.idew.org/project-trivia-health/#why-do-this-project).  
 
 ![](.gitbook/assets/trivia-phases-drawing-alpha%20%281%29.png)
 
