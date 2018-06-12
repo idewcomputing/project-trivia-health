@@ -77,6 +77,8 @@ Use the examples below only as general guides or inspiration for your own work. 
 ![](../.gitbook/assets/interface-storyboard-example%20%281%29.jpg)
 
 ### 1.6 Value Proposition
+
+![](../.gitbook/assets/valuepropositionexample.png)
 {% endtab %}
 
 {% tab title="★  RUBRICS" %}
