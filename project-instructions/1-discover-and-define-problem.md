@@ -60,7 +60,7 @@ Refine your previous work as needed to be included in your [**proposal**](https:
 
 ### **1.2 Competitive Analysis**
 
-![](../.gitbook/assets/competitiveanalysisexample.png)
+![a;sdlfkj](../.gitbook/assets/competitiveanalysisexample.png)
 
 ### 1.3 Background Research
 
