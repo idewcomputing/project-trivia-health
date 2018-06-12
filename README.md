@@ -48,7 +48,7 @@ Each stage of the project has a set of deliverables, but they lead up to the fol
 * [Google Drive](https://drive.google.com) - for team file management and Docs, Sheets, Slides, and Drawings.
 * [CodePen](https://codepen.io) - For code practice exercises. Also, _CodePen Projects_ is a potential choice as a code editor for the trivia project.
 * [Marvel App](https://marvelapp.com) - A digital prototyping tool.
-* Analog Tools - Of course paper, pencils, markers, whiteboards, and sticky notes are valuable on any day.
+* Analog Tools - Paper, pencils, markers, whiteboards, and sticky notes are valuable on any day.
 * Digital Camera / Phone - Photographs of sketches, paper notes and whiteboard notes.
 {% endtab %}
 
