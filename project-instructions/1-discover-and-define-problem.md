@@ -50,7 +50,7 @@ Refine your previous work as needed to be included in your [**proposal**](https:
 {% endtab %}
 
 {% tab title="⦿ EXAMPLES" %}
-_Use the examples below only as general guides or inspiration for your own work. Many of the examples may not be directly related to the problem or context your team is addressing, but they can provide guidance on format and content._
+_Use the examples below only as general guides on format and content. They are general examples and usually do not directly relate to the problem or context your team is addressing, but they provide useful patterns for you to consider._
 
 ### 1.1 Trivia Code Tutorial
 
