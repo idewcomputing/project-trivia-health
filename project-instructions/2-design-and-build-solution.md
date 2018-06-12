@@ -10,11 +10,11 @@ Compose a prototype of the solution for a detailed internal review and evaluatio
 {% tab title="✓  TASKS" %}
 **2.1 Question Bank Development**  
 You will find that creating good trivia questions will take careful thought and multiple iterations. So getting a good start on your question bank will be very beneficial.  
-**❏ Deliverable: Complete your 40+ question database.**
+**❏ Deliverable: Your completed 40+ question database.**
 
 **2.2 Interface Mockups**  
 After careful review of your team's sketches and ideas, create digital images that represent examples of your different screen states that can demonstrate the game flow.  
-**❏ Deliverable: Provide 5 screen mockups that represent the welcome screen, the question screen, the question screen on correct answer feedback, the question screen on incorrect answer feedback, and the closing screen once the player is done.**
+**❏ Deliverable: Five digital screen mockups that represent the welcome screen, the question screen, the question screen on correct answer feedback, the question screen on incorrect answer feedback, and the closing screen once the player is done.**
 
 **2.3 Interactive Prototype**  
 Provide enough visual and interactive detail in your prototype to allow thorough testing of each potential user scenario in your game.  
