@@ -78,7 +78,7 @@ Refine your previous work as needed to be included in your [**proposal**](https:
 
 ### 1.6 Value Proposition
 
-![Student team example.](../.gitbook/assets/valuepropositionexample2.png)
+![](../.gitbook/assets/valuepropositionexample2%20%281%29.png)
 {% endtab %}
 
 {% tab title="★  RUBRICS" %}
