@@ -31,13 +31,11 @@ Teams will begin with a [**trivia app template**](https://cxd.gitbook.io/code-tr
 Each stage of the project has a set of deliverables, but they lead up to the following final deliverables from the team.
 
 * **A public trivia app** that has been tested, refined, and prepared for demonstration at the end event.
-  * At least four categories of questions related to a community health issue\(s\).
-  * At least 40 total questions.
+  * At least 20 total questions.
   * A distinct style created by the team.
-  * A countdown mechanism that encourages each player’s engagement.
   * A metric that provides the player with feedback on his or her performance.
   * At least two sound effects.
-  * At least two images or advanced visual effects.
+  * At least two advanced visual effects.
 * **A poster** \(2’ x 3’\) summarizing the process of creating your trivia app \(including artifacts created, like sketches, prototypes etc.\), along with defining features of the final design.
 * **A marketing card** \(3” x 5”\) that promotes your team’s trivia game with classmates and the community.
 * **A well-coordinated presentation** that demonstrates the trivia app and explains the process of developing it to visitors of your school.
