@@ -15,7 +15,7 @@ After conducting research, you will develop initial design ideas and compose a *
 
 {% tab title="✓  TASKS" %}
 **1.1 Trivia Code Tutorial**  
-Each team member will complete the exercises in [**the code tutorial**](https://docs.idew.org/code-trivia/tutorial/build-tutorial) to develop a firm understanding of the technical opportunities and constraints your team will have with your design.  
+Each team member will complete the exercises in [**the code tutorial**](https://docs.idew.org/code-trivia/build-tutorial) to develop a firm understanding of the technical opportunities and constraints your team will have with your design.  
 **❏ Deliverable: Demonstrate that you have completed the build tutorial and can discuss how the code works.**
 
 ![](../.gitbook/assets/hr.png)
