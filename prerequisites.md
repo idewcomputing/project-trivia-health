@@ -26,3 +26,7 @@ _Familiarity_ with the following concepts are highly recommended before programm
 * jQuery selectors for elements, classes, and ids
 * Common jQuery functions: $.show\(\), $.hide\(\), $.html\(\)
 
+## Recommended Activities to Get Up to Speed
+
+
+
