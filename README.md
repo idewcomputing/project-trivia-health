@@ -1,4 +1,4 @@
-# Project Challenge and Background
+# Trivia for Improved Health and Wellness
 
 {% hint style="danger" %}
 UPDATE IN PROGRESS: This document is undergoing a major update. Please check back later. June 6, 2018

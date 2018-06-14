@@ -1,7 +1,8 @@
 # Table of contents
 
-* [Project Challenge and Background](README.md)
-* [Challenge & Background](https://docs.idew.org/project-trivia-health/)
+* [Trivia for Improved Health and Wellness](README.md)
+* [Challenge & Background](challenge-and-background.md)
+* [Prerequisites](prerequisites.md)
 
 ## Project Instructions
 
