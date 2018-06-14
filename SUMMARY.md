@@ -15,4 +15,5 @@
 
 * [Trivia Code Docs](https://cxd.gitbook.io/code-trivia)
 * [Principles & Practices](https://docs.idew.org/principles-and-practices/)
+* [Skills & Exploration](skills-and-exploration.md)
 
