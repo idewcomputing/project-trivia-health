@@ -3,6 +3,7 @@
 * [Trivia for Improved Health and Wellness](README.md)
 * [Challenge & Background](challenge-and-background.md)
 * [Prerequisites](prerequisites.md)
+* [Skills & Exploration](skills-and-exploration.md)
 
 ## Project Instructions
 
@@ -15,5 +16,4 @@
 
 * [Trivia Code Docs](https://cxd.gitbook.io/code-trivia)
 * [Principles & Practices](https://docs.idew.org/principles-and-practices/)
-* [Skills & Exploration](skills-and-exploration.md)
 
