@@ -62,7 +62,7 @@ Refine your previous work as needed to be included in your [**proposal**](https:
 
 ### 1.1 Trivia Code Tutorial
 
-   See the [tutorial](https://docs.idew.org/code-trivia/build-tutorial).
+   You will demonstrate a working version of the trivia template after completing the [tutorial](https://docs.idew.org/code-trivia/build-tutorial).
 
 ### **1.2 Competitive Analysis**
 
