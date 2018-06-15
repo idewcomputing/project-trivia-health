@@ -61,14 +61,14 @@ Take this opportunity to wrap-up your trivia app the best you can in order to be
 ## 2.5 Code Development Outline
 
 ![](../.gitbook/assets/codedev.png)
+
+## 2.6 Marketing Card
+
+![](../.gitbook/assets/marketingcard.png)
 {% endtab %}
 
 {% tab title="★  RUBRICS" %}
 
 {% endtab %}
 {% endtabs %}
-
-## 2.6 Marketing Card
-
-![](../.gitbook/assets/marketingcard.png)
 
