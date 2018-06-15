@@ -33,7 +33,7 @@ The marketing card will be a valuable lead-in to your game that could be distrib
 **❏ Deliverable: A PNG image file of your marketing card.**
 
 **2.7 Code Testing**  
-You may not be ready to get feedback on all the app interactions with the "bells and whistles" but you can get valuable feedback on the question and answer formulations. Are they clear and concise? Too easy? Too hard? Interesting?  
+Conduct some basic code testing to verify that the app is acting as expected under different conditions. Ensure that everything works as expected on different size screens and with touch or mouse interactions. Consider all the things a user might do, like double click, click and drag, swipe, change browser dimensions mid-game, etc.  
 **❏ Deliverable: A document outlining the results of your code testing.**
 
 **2.8 Prepare Development Review and Demonstration**  
