@@ -9,7 +9,7 @@
 
 {% tab title="✓  TASKS" %}
 **2.1 Question Bank Development**  
-You will find that creating good trivia questions will take careful thought and multiple iterations. So getting a good start on your question bank will be very beneficial.  
+You will find that creating good trivia questions will take careful thought and multiple iterations. So getting a good start on your question bank will be very beneficial. Follow the [**instructions for managing a question database**](https://docs.idew.org/code-trivia/managing-the-question-db) for your team.  
 **❏ Deliverable: Your completed 20+ question database.**
 
 **2.2 Interface Mockups**  
@@ -42,7 +42,13 @@ Take this opportunity to wrap-up your trivia app the best you can in order to be
 {% endtab %}
 
 {% tab title="⦿ EXAMPLES" %}
+## 2.1 Question Database Development
 
+![](../.gitbook/assets/questiondb.png)
+
+## 2.2 Interface Mockups
+
+![](../.gitbook/assets/mockupsreduced.png)
 {% endtab %}
 
 {% tab title="★  RUBRICS" %}
