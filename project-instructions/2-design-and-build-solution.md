@@ -48,7 +48,7 @@ Take this opportunity to wrap-up your trivia app the best you can in order to be
 
 ## 2.2 Interface Mockups
 
-![](../.gitbook/assets/mockupsreduced.png)
+![](../.gitbook/assets/mockupsreduced%20%281%29.png)
 {% endtab %}
 
 {% tab title="★  RUBRICS" %}
