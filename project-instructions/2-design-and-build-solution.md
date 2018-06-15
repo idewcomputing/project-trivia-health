@@ -4,7 +4,7 @@
 {% tab title="OVERVIEW" %}
 ![](../.gitbook/assets/trivia-phase-2-drawing-alpha-reduced.png)
 
-Compose a prototype of the solution for a detailed internal review and evaluation by a sample of stakeholders. Prepare any other known assets that will contribute to the development in the next phase. Organize a development strategy to methodically create your solution with efficiency and quality. While executing the development, also prepare for the promotion and launch of the solution. Conduct several tests to ensure all is in working order before an in-class demonstration.
+Design a prototype of the solution for a detailed internal review and evaluation by a sample of stakeholders. Organize a development strategy to methodically program and style your solution with efficiency and quality. Also prepare for the promotion and launch of your solution. Conduct several tests to ensure all is in working order before an in-class demonstration.
 {% endtab %}
 
 {% tab title="✓  TASKS" %}
