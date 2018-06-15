@@ -29,7 +29,7 @@ Outline the features to program by priority--core features, enhanced features, a
 **❏ Deliverable: A document or slide that outlines your progressive development plan.**
 
 **2.6 Marketing card**  
-The marketing card will be a valuable lead-in to your game that could be distributed physically or as a digital image. Think about what your elevator pitch would be for the game and make it visual.  
+Create a 3" x 5" marketing card. The marketing card will be a valuable lead-in to your game that could be distributed physically or as a digital image. Think about what your elevator pitch would be for the game and make it visual.  
 **❏ Deliverable: A PNG image file of your marketing card.**
 
 **2.7 Code Testing**  
