@@ -68,5 +68,7 @@ Take this opportunity to wrap-up your trivia app the best you can in order to be
 {% endtab %}
 {% endtabs %}
 
-#### 
+## 2.6 Marketing Card
+
+![](../.gitbook/assets/marketingcard.png)
 
