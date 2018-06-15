@@ -85,6 +85,10 @@ Refine your previous work as needed to be included in your [**proposal**](https:
 ### 1.6 Value Proposition
 
 ![](../.gitbook/assets/valuepropositionexample2%20%281%29.png)
+
+### 1.7 Team Proposal
+
+![This is only an example of the types of artifacts you want in you proposal, since each of these are not drawn from one consistent concept.](../.gitbook/assets/proposalexample.png)
 {% endtab %}
 
 {% tab title="★  RUBRICS" %}
