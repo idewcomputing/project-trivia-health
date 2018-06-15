@@ -14,13 +14,13 @@ Plan another evaluation to test your live trivia app, including a clear method o
 **3.2 Evaluation Results and App Refinements**  
 It is important to determine how you can get the most return \(improvements in the trivia game\) from the time you have remaining to work. So, based on your evaluation findings, determine a plan to iterate through your changes with frequent testing to ensure nothing is unintentionally broken.
 
-**3.4 Question analysis**  
+**3.3 Question analysis**  
 Prepare summary data and charts on people's responses to your trivia questions and draw some conclusions about the quality of the questions or people's general knowledge about each item.
 
-**3.5 Poster**  
+**3.4 Poster**  
 Your poster design is important for two reasons. One, it is an opportunity for your team to reflect on the project process and what you have learned, and two, it provides a great visual aid for explaining your work to visitors at the final event.
 
-**3.6 Prepare for Poster Review and Trivia Demonstration**  
+**3.5 Prepare for Poster Review and Trivia Demonstration**  
 This is a time to develop a clear narrative to share about your team's work and enjoy sharing it with others in class.
 {% endtab %}
 
