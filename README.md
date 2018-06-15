@@ -16,7 +16,7 @@ More background information on health challenge coming...
 
 Each project team will follow a process to thoughtfully develop a trivia app while practicing a diverse set of skills in a collaborative environment.  
 
-![](.gitbook/assets/trivia-phases-drawing-alpha%20%281%29.png)
+![](.gitbook/assets/trivia-phases-drawing-alpha%20%282%29.png)
 
 ## Teams
 
