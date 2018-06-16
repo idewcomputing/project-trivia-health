@@ -6,15 +6,9 @@ There are many health issues to consider that impact our communities. Your team 
 
 #### General Topics to consider
 
-* Opioid Addiction
-* Mental Health
-* Obesity
-* Diabetes
-* Alcoholism
-* Heart Disease
-* Cancer
-* Nutrition
-* Fitness
+| Opioid Addiction Mental Health Obesity | Diabetes Alcoholism Heart Disease | Cancer Nutrition Fitness |
+| --- |
+
 
 ## Process
 
