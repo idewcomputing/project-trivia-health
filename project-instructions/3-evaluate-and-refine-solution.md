@@ -16,7 +16,7 @@ Share your trivia game link with classmates and others outside of class to gener
 
 **3.3 App Refinements**  
 It is important to determine how you can get the most return \(improvements in the trivia game\) from the time you have remaining to work. So, based on your evaluation findings and question analysis, determine a plan to implement improvements while frequently testing to ensure nothing is unintentionally broken.  
-**❏ Deliverable: A document or slide that listing improvements by priority.**
+**❏ Deliverable: A document or slide listing improvements by priority.**
 
 **3.4 Poster**  
 Your poster design is important for two reasons. One, it is an opportunity for your team to reflect on the project process and what you have learned, and two, it provides a great visual aid for explaining your work to visitors at the final event.  
