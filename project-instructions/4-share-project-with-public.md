@@ -31,7 +31,18 @@ Remember, a lot of people will likely be learning about your project for the fir
 {% endtab %}
 
 {% tab title="★  RUBRICS" %}
+#### Individual Reflection
 
+| ✓-  Below Standard | ✓  At Standard | ✓+  Above Standard |
+| :--- | :--- | :--- |
+| An individual reflection was submitted but presented little depth and insight into personal progress through individual contributions or team collaboration activities. | The individual reflection demonstrates a thoughtful look back at the work completed and the subsequent knowledge and aspirations that developed. | The reflection provided a clear indication of personal growth, through the collaboration process and individual effort. Also a well-formulated perspective on future intentions was portrayed. |
+
+#### Presentation
+
+| ✓-  Below Standard | ✓  At Standard | ✓+  Above Standard |
+| :--- | :--- | :--- |
+| **Information** presented in a way that is not always clear, concise, and logical. The presentation style and selection of material  is not fully appropriate for the context. | Information presented in a clear, concise, and logical manner. The selection of material and style is appropriate and effective. | Exceptionally curated information that is delivered in an interesting, coherent and memorable way. |
+| **Delivery**: Eye contact, poise, and appropriate voice-level often lacking. | Vocal clarity, eye-contact, and physical composure maintained throughout. | An exceptionally engaging delivery of content lacking unnecessary distractions from the content. |
 {% endtab %}
 {% endtabs %}
 
