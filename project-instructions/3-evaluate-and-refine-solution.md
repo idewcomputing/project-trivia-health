@@ -42,7 +42,7 @@ This is a time to develop a clear narrative to share about your team's work and 
 
 | ✓- Below Standard | ✓ At Standard | ✓+ Above Standard |
 | --- | --- |
-| **The app demonstration and evaluation summary** is presented, but lack a clear connection and effort to improve the solution based on feedback. | The demonstration presents app features that are clearly mapped to what was learned in the evaluation process. | The app demonstration shows targeted improvements that were enabled by a thorough and thoughtful evaluation process. |
+| **The app demonstration and evaluation summary** is presented but lack a clear connection and effort to improve the solution based on feedback. | The demonstration presents app features that are clearly mapped to what was learned in the evaluation process. | The app demonstration shows targeted improvements that were enabled by a thorough and thoughtful evaluation process. |
 {% endtab %}
 {% endtabs %}
 
