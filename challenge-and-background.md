@@ -13,7 +13,6 @@ There are many health issues to consider that impact our communities. Your team 
 * Alcoholism
 * Heart Disease
 * Cancer
-* Violence
 * Nutrition
 * Fitness
 
