@@ -21,7 +21,7 @@ Provide enough visual and interactive detail in your prototype to allow thorough
 **❏ Deliverable: A link to your working Marvel App prototype that uses your interface mockups.**
 
 **2.4 Prototype Evaluation**  
-Each team member should evaluate the prototype by having three people individually play the prototype game. Synthesize your results and define important decisions for your trivia design before coding begins.  
+Each team member should evaluate the prototype by having two people individually play the prototype game using the **think-aloud protocol**. Synthesize your results and define important decisions for your trivia design before coding begins.  
 **❏ Deliverable: A document or slide that summarizes the results of your prototype evaluation.**
 
 **2.5 Code Development Outline**  
