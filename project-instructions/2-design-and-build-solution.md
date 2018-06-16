@@ -84,7 +84,7 @@ Take this opportunity to wrap-up your trivia app the best you can in order to be
 
 | ✓- Below Standard | ✓ At Standard | ✓+ Above Standard |
 | --- | --- |
-| The live trivia app is functioning, but the style and/or content has been developed very little from the base template provided. | The app demonstrates intentional design and styling consistent with the team's concept and goals. The app code and features demonstrate a customized interaction that largely functions as desired. | The app is clearly a work of diligent and thoughtful work that goes beyond the base requirements for the project. |
+| **The live trivia app** is functioning, but the style and/or content has been developed very little from the base template provided. | The app demonstrates intentional design and styling consistent with the team's concept and goals. The app code and features demonstrate a customized interaction that largely functions as desired. | The app is clearly a work of diligent and thoughtful work that goes beyond the base requirements for the project. |
 {% endtab %}
 {% endtabs %}
 
