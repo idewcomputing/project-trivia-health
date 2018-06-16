@@ -4,7 +4,7 @@
 
 There are many health issues to consider that impact our communities. Your team will want to carefully choose a topic that is important to each team member and that can be positively engaged through a well-designed trivia game.
 
-#### Topics to consider
+#### General Topics to consider
 
 * Opioid Addiction
 * Mental Health
