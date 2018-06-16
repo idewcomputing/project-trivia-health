@@ -16,7 +16,7 @@ Plan another evaluation to test your live trivia app using the **think-aloud pro
 Share your trivia game link with classmates and others outside of class to generate some data on player performance. Prepare summary data and charts on people's responses to your trivia questions and draw some conclusions about the quality of the questions or people's general knowledge about each item. Look for any patterns indicating errors in your trivia questions and answers.  
 **❏ Deliverable: A document or slide that summarizes analysis in charts.**
 
-**3.2 App Refinements**  
+**3.3 App Refinements**  
 It is important to determine how you can get the most return \(improvements in the trivia game\) from the time you have remaining to work. So, based on your evaluation findings and question analysis, determine a plan to implement improvements while frequently testing to ensure nothing is unintentionally broken.  
 **❏ Deliverable: A document or slide that listing improvements by priority.**
 
@@ -26,7 +26,7 @@ Your poster design is important for two reasons. One, it is an opportunity for y
 
 **3.5 Prepare for Poster Review and Trivia Demonstration**  
 This is a time to develop a clear narrative to share about your team's work and enjoy sharing it with others in class.  
-**❏ Deliverable: Prepare to discuss your poster and demonstrate your trivia app.**
+**❏ Deliverable: Prepare a slide set with your poster, evaluation summary, and app link for discussion and demonstrate your trivia app.**
 {% endtab %}
 
 {% tab title="⦿ EXAMPLES" %}
