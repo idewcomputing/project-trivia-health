@@ -2,8 +2,6 @@
 
 {% tabs %}
 {% tab title="OVERVIEW" %}
-![](../.gitbook/assets/trivia-phase-3-drawing-alpha-reduced.png)
-
 After confirmation of the solution’s quality, launch and promote the work. Monitor the use of your solution and gather direct feedback from key stakeholders for minor improvements or recommendations for further development.
 {% endtab %}
 
@@ -38,10 +36,5 @@ This is a time to develop a clear narrative to share about your team's work and 
 {% endtab %}
 {% endtabs %}
 
-## **Submissions for Poster Preview and Trivia App Demonstration**
 
-* Poster
-* User Testing Results
-* Question Analysis
-* Refined Trivia App Code
 
