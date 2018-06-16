@@ -65,6 +65,10 @@ Take this opportunity to wrap-up your trivia app the best you can in order to be
 ## 2.6 Marketing Card
 
 ![](../.gitbook/assets/marketingcard.png)
+
+## 2.7 Code Testing
+
+![](../.gitbook/assets/codetestingexample.png)
 {% endtab %}
 
 {% tab title="★  RUBRICS" %}
