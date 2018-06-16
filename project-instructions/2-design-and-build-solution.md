@@ -68,7 +68,7 @@ Take this opportunity to wrap-up your trivia app the best you can in order to be
 
 ## 2.7 Code Testing
 
-![](../.gitbook/assets/codetestingexample.png)
+![This is a template for recording results of code testing.](../.gitbook/assets/codetestingexample.png)
 {% endtab %}
 
 {% tab title="★  RUBRICS" %}
