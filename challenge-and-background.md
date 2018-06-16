@@ -2,7 +2,20 @@
 
 ![](.gitbook/assets/trivia-health-challenge-reduced%20%282%29.png)
 
-More background information on health challenge coming ...
+There are many health issues to consider that impact our communities. Your team will want to carefully choose a topic that is important to each team member and that can be positively engaged through a well-designed trivia game.
+
+#### Topics to consider
+
+* Opioid Addiction
+* Mental Health
+* Obesity
+* Diabetes
+* Alcoholism
+* Heart Disease
+* Cancer
+* Violence
+* Nutrition
+* Fitness
 
 ## Process
 
