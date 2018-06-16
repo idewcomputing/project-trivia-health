@@ -41,6 +41,8 @@ Each stage of the project has a set of deliverables, but they lead up to the fol
 * Analog Tools - Paper, pencils, markers, whiteboards, and sticky notes are valuable on any day.
 * Digital Camera / Phone - Photographs of sketches, paper notes and whiteboard notes.
 
+## Learning Objectives
+
 #### Why Do This Project?
 
 Of course you are going to create an awesome trivia game to benefit others, but you will also get first-hand experience in informatics and computing that reflect great opportunities in the field. You will...
@@ -72,7 +74,7 @@ You will investigate the following key concepts related to computing.
 | :--- | :--- | :--- |
 | You will practice independent-learning to become confident in obtaining valuable information and understanding the leverage computers can offer to solve problems. | You will often use divergent thinking and a “design, build, test” cycle that supports an agile environment rooted in the scientific method and common creative processes. | You will thoughtfully reflect on techniques and attitudes for successful collaboration and communication in project groups, as well as sharing your work with those outside of class. |
 
-### Beyond the Project
+## Beyond the Project
 
 While this digital book guides your project work, below are important suggestions for a well-rounded learning experience using supplemental activities.
 
