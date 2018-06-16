@@ -9,19 +9,24 @@ After confirmation of the solution’s quality, launch and promote the work. Mon
 
 {% tab title="✓  TASKS" %}
 **3.1 Evaluation and Post Interview**  
-Plan another evaluation to test your live trivia app using the **think-aloud protocol**. With you prototype you tested the general game concept, but with this evaluation you want to ensure the game is fully usable and engaging. You also want to evaluate the quality of the trivia questions. You will follow up this evaluation with a post interview of participants to investigate the overall effectiveness of your solution in addressing your chosen health issue. You want to learn as much as you can while using people's time wisely and respectfully.
+Plan another evaluation to test your live trivia app using the **think-aloud protocol** with at least six people. With your prototype you tested the general game concept, but with this evaluation you want to ensure the game is fully usable and engaging. You also want to evaluate the quality of the trivia questions. Follow up this evaluation with a post interview of participants to get feedback on the overall effectiveness of your solution in addressing your chosen health issue. You want to learn as much as you can while using people's time wisely and respectfully.  
+**❏ Deliverable: A document or slide that summarizes the results of your evaluation evaluation.**
 
-**3.2 Evaluation Results and App Refinements**  
-It is important to determine how you can get the most return \(improvements in the trivia game\) from the time you have remaining to work. So, based on your evaluation findings, determine a plan to iterate through your changes with frequent testing to ensure nothing is unintentionally broken.
+**3.2 Initial Question Analysis**  
+Share your trivia game link with classmates and others outside of class to generate some data on player performance. Prepare summary data and charts on people's responses to your trivia questions and draw some conclusions about the quality of the questions or people's general knowledge about each item. Look for any patterns indicating errors in your trivia questions and answers.  
+**❏ Deliverable: A document or slide that summarizes analysis in charts.**
 
-**3.3 Question analysis**  
-Prepare summary data and charts on people's responses to your trivia questions and draw some conclusions about the quality of the questions or people's general knowledge about each item.
+**3.2 App Refinements**  
+It is important to determine how you can get the most return \(improvements in the trivia game\) from the time you have remaining to work. So, based on your evaluation findings and question analysis, determine a plan to implement improvements while frequently testing to ensure nothing is unintentionally broken.  
+**❏ Deliverable: A document or slide that listing improvements by priority.**
 
 **3.4 Poster**  
-Your poster design is important for two reasons. One, it is an opportunity for your team to reflect on the project process and what you have learned, and two, it provides a great visual aid for explaining your work to visitors at the final event.
+Your poster design is important for two reasons. One, it is an opportunity for your team to reflect on the project process and what you have learned, and two, it provides a great visual aid for explaining your work to visitors at the final event.  
+**❏ Deliverable: A PNG file of poster.**
 
 **3.5 Prepare for Poster Review and Trivia Demonstration**  
-This is a time to develop a clear narrative to share about your team's work and enjoy sharing it with others in class.
+This is a time to develop a clear narrative to share about your team's work and enjoy sharing it with others in class.  
+**❏ Deliverable: Prepare to discuss your poster and demonstrate your trivia app.**
 {% endtab %}
 
 {% tab title="⦿ EXAMPLES" %}
