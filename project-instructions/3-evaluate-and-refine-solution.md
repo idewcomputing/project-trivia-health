@@ -24,7 +24,7 @@ Your poster design is important for two reasons. One, it is an opportunity for y
 
 **3.5 Prepare for Poster Review and Trivia Demonstration**  
 This is a time to develop a clear narrative to share about your team's work and enjoy sharing it with others in class.  
-**❏ Deliverable: Prepare a slide set with your poster, evaluation summary, and app link for discussion and demonstrate your trivia app.**
+**❏ Deliverable: Prepare a slide set with your poster, evaluation summary, and app link for discussion and demonstration your trivia app.**
 {% endtab %}
 
 {% tab title="⦿ EXAMPLES" %}
