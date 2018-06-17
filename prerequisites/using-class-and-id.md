@@ -31,7 +31,7 @@ By assigning a class or id to an HTML element you can apply specific styles in a
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-Try it out
+### Try it out
 
 1. Copy the HTML and CSS above and paste it in a [**new CodePen**](https://codepen.io/pen/).
 2. Take a look at the browser preview and try to decipher what is going on.
