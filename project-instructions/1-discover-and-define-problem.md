@@ -16,7 +16,8 @@ After conducting research, you will develop initial design ideas and **compose a
 {% tab title="✓  TASKS" %}
 **1.1 Trivia Code Tutorial**  
 Each team member will complete the exercises in [**the code tutorial**](https://docs.idew.org/code-trivia/build-tutorial) to develop a firm understanding of the technical opportunities and constraints your team will have with your design. Also, complete the steps needed to [**manage your own question database**](https://docs.idew.org/code-trivia/managing-the-question-db).  
-**❏ Deliverable: Demonstrate that you have completed the build tutorial and can discuss how the code works.**
+_\(If needed, work through HTML/CSS/JS concepts found in the_ [_**prerequisites page**_](https://docs.idew.org/code-trivia/prerequisites) _before starting the tutorial.\)_  
+**❏ Deliverable: Demonstrate that you have completed the build tutorial, created a question database and can discuss how the code works.**
 
 ![](../.gitbook/assets/hr.png)
 

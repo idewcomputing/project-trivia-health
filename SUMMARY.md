@@ -2,7 +2,6 @@
 
 * [Trivia for Improved Health and Wellness](README.md)
 * [Challenge & Background](challenge-and-background.md)
-* [Prerequisites](prerequisites.md)
 * [Skills & Exploration](skills-and-exploration.md)
 
 ## Project Instructions
