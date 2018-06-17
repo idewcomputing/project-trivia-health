@@ -4,8 +4,8 @@
 * [Challenge & Background](challenge-and-background.md)
 * [Prerequisites](prerequisites/README.md)
   * [HTML Quick Start](prerequisites/html-quick-start.md)
-  * [HTML + CSS Basics](prerequisites/html-css.md)
-  * [JavaScript Quick Start](prerequisites/javascript-quick-start.md)
+  * [HTML + CSS Basics](prerequisites/html-+-css-basics.md)
+  * [HTML Nesting](prerequisites/html-nesting.md)
 * [Skills & Exploration](skills-and-exploration.md)
 
 ## Project Instructions
