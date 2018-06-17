@@ -6,8 +6,7 @@ _Familiarity_ with the following concepts are highly recommended before programm
 
 #### HTML
 
-* Basic tag syntax
-* Common elements: &lt;div&gt;, &lt;h1&gt;, &lt;h2&gt; \(etc.\), &lt;button&gt;, &lt;span&gt;
+* Common HTML Elements and the basic tag syntax `<div>`, `<h1>`, `<h2>` \(etc.\), `<button>`, `<span>`
 * Nesting elements
 * Block vs Inline elements
 * _id_ and _class_ attributes
@@ -25,8 +24,6 @@ _Familiarity_ with the following concepts are highly recommended before programm
 * Conditionals -- if, else
 * jQuery selectors for elements, classes, and ids
 * Common jQuery functions: $.show\(\), $.hide\(\), $.html\(\)
-
-## Recommended Activities to Get Up to Speed
 
 
 

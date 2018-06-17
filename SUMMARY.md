@@ -2,7 +2,10 @@
 
 * [Trivia for Improved Health and Wellness](README.md)
 * [Challenge & Background](challenge-and-background.md)
-* [Prerequisites](prerequisites.md)
+* [Prerequisites](prerequisites/README.md)
+  * [HTML Quick Start](prerequisites/html-quick-start.md)
+  * [CSS Quick Start](prerequisites/untitled.md)
+  * [JavaScript Quick Start](prerequisites/javascript-quick-start.md)
 * [Skills & Exploration](skills-and-exploration.md)
 
 ## Project Instructions
