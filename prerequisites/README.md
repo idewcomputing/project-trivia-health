@@ -8,7 +8,6 @@ _Familiarity_ with the following concepts are highly recommended before programm
 
 * Common HTML Elements and the basic tag syntax `<div>`, `<h1>`, `<h2>` \(etc.\), `<button>`, `<span>`
 * Nesting elements
-* Block vs Inline elements
 * _id_ and _class_ attributes
 
 **CSS**
