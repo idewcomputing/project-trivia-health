@@ -1,6 +1,6 @@
 # HTML Nesting
 
-```
+```text
 <div class="container">
   <div class="card">Jill - Data Scientist</div>
   <div class="card">Johnny - UX Designer</div>
@@ -8,7 +8,7 @@
 </div>
 ```
 
-```
+```text
 .container {
   border: 1px dotted black;
   padding: 5px;
@@ -21,3 +21,4 @@
   box-shadow: 2px 2px 3px;
 }
 ```
+
