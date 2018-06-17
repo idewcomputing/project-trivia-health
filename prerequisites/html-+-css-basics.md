@@ -1,4 +1,4 @@
-# HTML + CSS Basics
+# 2 HTML + CSS Basics
 
 ## Using CSS to Add Style
 

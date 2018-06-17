@@ -3,10 +3,10 @@
 * [Trivia for Improved Health and Wellness](README.md)
 * [Challenge & Background](challenge-and-background.md)
 * [Prerequisites](prerequisites/README.md)
-  * [HTML Quick Start](prerequisites/html-quick-start.md)
-  * [HTML + CSS Basics](prerequisites/html-+-css-basics.md)
-  * [Using Class and Id](prerequisites/using-class-and-id.md)
-  * [HTML Nesting](prerequisites/html-nesting.md)
+  * [1 HTML Quick Start](prerequisites/html-quick-start.md)
+  * [2 HTML + CSS Basics](prerequisites/html-+-css-basics.md)
+  * [3 Using Class and Id](prerequisites/using-class-and-id.md)
+  * [4 HTML Nesting](prerequisites/html-nesting.md)
 * [Skills & Exploration](skills-and-exploration.md)
 
 ## Project Instructions
