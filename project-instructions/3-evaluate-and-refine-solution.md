@@ -8,7 +8,7 @@ After confirmation of the solution’s quality, launch and promote the work. Mon
 {% tab title="✓  TASKS" %}
 **3.1 Evaluation and Post Interview**  
 Plan another evaluation to test your live trivia app using the **think-aloud protocol** with at least six people. With your prototype you tested the general game concept, but with this evaluation you want to ensure the game is fully usable and engaging. You also want to evaluate the quality of the trivia questions. Follow up this evaluation with a **post interview** of participants to get feedback on the overall effectiveness of your solution in addressing your chosen health issue. You want to learn as much as you can while using people's time wisely and respectfully.  
-**❏ Deliverable: A document or slide that summarizes the results of your evaluation evaluation.**
+**❏ Deliverable: A document or slide that summarizes the results of your evaluation.**
 
 **3.2 Initial Question Analysis \(! - This Item anticipates an added feature to the Trivia Template.\)**  
 Share your trivia game link with classmates and others outside of class to generate some data on player performance. Prepare summary data and charts on people's responses to your trivia questions and draw some conclusions about the quality of the questions or people's general knowledge about each item. Look for any patterns indicating errors in your trivia questions and answers.  
