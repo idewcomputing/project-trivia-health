@@ -38,7 +38,7 @@ Conduct some basic [**code testing**](https://docs.idew.org/principles-and-pract
 
 **2.8 Prepare Development Review and Demonstration**  
 Take this opportunity to wrap-up your trivia app the best you can in order to begin testing your game in the next phase.  
-**❏ Deliverable: A slide set with a link to your prototype, a summary of evaluation results, a copy of your marketing card, and a link to your working trivia app. Prepare to demonstrate and present your work.**
+**❏ Deliverable: A slide set with a link to your prototype, a summary of evaluation results, a copy of your marketing card, and a link to your working trivia app. Prepare to demonstrate and present your background work.**
 {% endtab %}
 
 {% tab title="⦿ EXAMPLES" %}
