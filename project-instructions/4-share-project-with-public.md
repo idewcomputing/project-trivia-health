@@ -33,6 +33,12 @@ Remember, a lot of people will likely be learning about your project for the fir
 | :--- | :--- | :--- |
 | An individual reflection was submitted but presented little depth and insight into personal progress through individual contributions or team collaboration activities. | The individual reflection demonstrates a thoughtful look back at the work completed and the subsequent knowledge and aspirations that developed. | The reflection provided a clear indication of personal growth, through the collaboration process and individual effort. Also a well-formulated perspective on future intentions was portrayed. |
 
+#### Final Trivia App \(
+
+| ✓-  Below Standard | ✓  At Standard | ✓+  Above Standard |
+| :--- | :--- | :--- |
+|  |  |  |
+
 #### Presentation
 
 | ✓-  Below Standard | ✓  At Standard | ✓+  Above Standard |
