@@ -1,9 +1,5 @@
 # Trivia for Improved Health and Wellness
 
-{% hint style="danger" %}
-UPDATE IN PROGRESS: This document is undergoing a major update. Please check back later. June 6, 2018
-{% endhint %}
-
 Copyright © 2018 Jim Lyst and Michael Frontz, Indiana University School of Informatics and Computing at IUPUI
 
 Part of the _Computing by Design_ high school curriculum developed for the [Informatics Diversity-Enhanced Workforce \(iDEW\) Program](http://soic.iupui.edu/idew/)

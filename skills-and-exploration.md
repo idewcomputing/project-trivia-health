@@ -12,7 +12,7 @@ This is a list of quality tutorials for programming, but there are many more ava
 
 ## Recommended Exploration Activities
 
-Exploration is an important activity for students and professionals alike that leads to new opportunities. You could conduct some research and generate a written report and/or a presentation to share with others. **Below is an example for a** _**trend report**_**, but you could do something similar on any topic in technology.**
+Exploration is an important activity for students and professionals alike that leads to new opportunities. You could conduct some research and generate a written report and/or a presentation to share with others. **Below is an example for a** _**trend report**_**, but you could do something similar on any topic or career in technology.**
 
 ### **Trend Report - What’s New in Tech that’s Interesting?**
 
