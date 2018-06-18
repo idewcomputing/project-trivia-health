@@ -33,11 +33,11 @@ Remember, a lot of people will likely be learning about your project for the fir
 | :--- | :--- | :--- |
 | An individual reflection was submitted but presented little depth and insight into personal progress through individual contributions or team collaboration activities. | The individual reflection demonstrates a thoughtful look back at the work completed and the subsequent knowledge and aspirations that developed. | The reflection provided a clear indication of personal growth, through the collaboration process and individual effort. Also a well-formulated perspective on future intentions was portrayed. |
 
-#### Final Trivia App \(
+#### Final Trivia App \(See [Basic Requirements List for Reference](https://docs.idew.org/project-trivia-health/challenge-and-background#final-deliverables)\)
 
 | ✓-  Below Standard | ✓  At Standard | ✓+  Above Standard |
 | :--- | :--- | :--- |
-|  |  |  |
+| The application was functional but lacked completeness in presentation or did not meet the criteria set out in the challenge. | The application demonstrated a solutions that was thoughtfully crafted and met all the initial criteria. | The application was clearly the result of exceptional work that provided a highly engaging experience. |
 
 #### Presentation
 
