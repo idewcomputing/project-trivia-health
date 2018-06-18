@@ -13,19 +13,19 @@ You will find that creating good trivia questions will take careful thought and 
 **❏ Deliverable: Your completed 20+ question database.**
 
 **2.2 Interface Mockups**  
-After careful review of your team's sketches and ideas, create digital images that represent examples of your different screen states that can demonstrate the game flow.  
+After careful review of your team's sketches and ideas, create digital [**interface mockups**](https://docs.idew.org/principles-and-practices/practices/design-practices/interface-mockups) that represent examples of your different screen states that can demonstrate the game flow.  
 **❏ Deliverable: Five digital screen mockups that represent the welcome screen, the question screen, the question screen on correct answer feedback, the question screen on incorrect answer feedback, and the closing screen once the player is done.**
 
 **2.3 Interactive Prototype**  
-Provide enough visual and interactive detail in your prototype to allow thorough testing of each potential user scenario in your game.  
+Provide enough visual and interactive detail in your interactive prototype to allow thorough testing of each potential user scenario in your game. We recommend you use [**Marvel App**](https://marvelapp.com/) to create your prototype.  
 **❏ Deliverable: A link to your working Marvel App prototype that uses your interface mockups.**
 
 **2.4 Prototype Evaluation**  
-Each team member should evaluate the prototype by having two people individually play the prototype game using the **think-aloud protocol**. Synthesize your results and define important decisions for your trivia design before coding begins.  
+Each team member should evaluate the prototype by having two people individually play the prototype game using the [**think-aloud protocol**](https://docs.idew.org/principles-and-practices/practices/design-practices/think-aloud-protocol). Synthesize your results and define important decisions for your trivia design before coding begins.  
 **❏ Deliverable: A document or slide that summarizes the results of your prototype evaluation.**
 
 **2.5 Code Development Outline**  
-Outline the features to program by priority--core features, enhanced features, and wish list features. Begin coding and maintain well organized code as you progress towards your first full demonstration.  
+Outline the features to program by priority--core features, enhanced features, and wish list features. This is an example of a basic [**requirements document**](https://docs.idew.org/principles-and-practices/practices/programming-practices/requirements-document). Begin coding and maintain well organized code as you progress towards your first full demonstration.  
 **❏ Deliverable: A document or slide that outlines your progressive development plan.**
 
 **2.6 Marketing card**  
@@ -33,7 +33,7 @@ Create a 3" x 5" marketing card. The marketing card will be a valuable lead-in t
 **❏ Deliverable: A PNG image file of your marketing card.**
 
 **2.7 Code Testing**  
-Conduct some basic code testing to verify that the app is acting as expected under different conditions. Ensure that everything works as expected on different size screens and with touch or mouse interactions. Consider all the things a user might do, like double click, click and drag, swipe, change browser dimensions mid-game, etc.  
+Conduct some basic [**code testing**](https://docs.idew.org/principles-and-practices/practices/programming-practices/code-testing) to verify that the app is acting as expected under different conditions. Ensure that everything works as expected on different size screens and with touch or mouse interactions. Consider all the things a user might do, like double click, click and drag, swipe, change browser dimensions mid-game, etc.  
 **❏ Deliverable: A document outlining the results of your code testing.**
 
 **2.8 Prepare Development Review and Demonstration**  
