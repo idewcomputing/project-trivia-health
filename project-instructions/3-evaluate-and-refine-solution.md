@@ -17,12 +17,12 @@ Share your trivia game link with classmates and others outside of class to gener
 **❏ Deliverable: A document or slide that summarizes analysis in charts.**
 
 **3.3 App Refinements**  
-It is important to determine how you can get the most return \(improvements in the trivia game\) from the time you have remaining to work. So, based on your evaluation findings and question analysis, determine a plan to implement improvements while frequently testing to ensure nothing is unintentionally broken.  
+It is important to determine how you can get the most return \(improvements in the trivia game\) from the time you have remaining to work. So, based on your evaluation findings and question analysis, determine a plan to implement improvements while frequently testing to ensure nothing is unintentionally broken. Similar to your code requirements document earlier, simply list items by priority--high priority changes and low priority changes.  
 **❏ Deliverable: A document or slide listing improvements by priority.**
 
 **3.4 Poster**  
-Your poster design is important for two reasons. One, it is an opportunity for your team to reflect on the project process and what you have learned, and two, it provides a great visual aid for explaining your work to visitors at the final event.  
-**❏ Deliverable: A PNG file of poster.**
+Your poster design is important for two reasons. One, it is an opportunity for your team to reflect on the project process and what you have learned, and two, it provides a great visual aid for explaining your work to visitors at the final event. Highlight at least six artifacts that demonstrate key work your team completed in the project process from beginning to end, and include a refined value statement that pulls it all together.  
+**❏ Deliverable: A PNG file of poster \(36" x 24"\).**
 
 **3.5 Prepare for Poster Review and Trivia Demonstration**  
 This is a time to develop a clear narrative to share about your team's work and enjoy sharing it with others in class.  
@@ -30,7 +30,26 @@ This is a time to develop a clear narrative to share about your team's work and 
 {% endtab %}
 
 {% tab title="⦿ EXAMPLES" %}
+## **3.1 Evaluation and Post Interview**
 
+![](../.gitbook/assets/evaluationresults.png)
+
+## 3.2 Initial Question Analysis
+
+\(Item in development\)
+
+## 3.3 App Refinements
+
+![](../.gitbook/assets/apprefinements.png)
+
+## 3.4 Poster
+
+![This is only an example template to inspire structure where text and images could be inserted for each element. Your version may not have as many artifacts or sections.](../.gitbook/assets/poster-template-36x24-2.png)
+
+  
+
+
+  
 {% endtab %}
 
 {% tab title="★  RUBRICS" %}
