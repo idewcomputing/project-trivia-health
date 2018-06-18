@@ -26,10 +26,6 @@ Remember, a lot of people will likely be learning about your project for the fir
 **4.4 Celebrate the fine work you have done!**
 {% endtab %}
 
-{% tab title="⦿ EXAMPLES" %}
-
-{% endtab %}
-
 {% tab title="★  RUBRICS" %}
 #### Individual Reflection
 
