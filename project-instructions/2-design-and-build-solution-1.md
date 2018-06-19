@@ -1,4 +1,4 @@
-# \*2 Design & Build Solution
+# 2 Design & Build Solutio\*
 
 ![](../.gitbook/assets/trivia-phase-2-drawing-alpha-reduced.png)
 

@@ -1,4 +1,4 @@
-# \*Rubrics
+# Rubrics\*
 
 ## 2 Design & Build Solution
 

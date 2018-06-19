@@ -1,4 +1,4 @@
-# \*Examples
+# Examples\*
 
 ## 2. Examples for Design & Build Solution
 
