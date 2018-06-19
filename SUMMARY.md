@@ -10,7 +10,6 @@
 
 * [1 Discover & Define Problem](project-instructions/1-discover-and-define-problem.md)
 * [2 Design & Build Solution](project-instructions/2-design-and-build-solution.md)
-* [2 Design & Build Solutio\*](project-instructions/2-design-and-build-solution-1.md)
 * [2 Design & Build Soluti\*\*](project-instructions/2-design-and-build-solution-2/README.md)
   * [2.1 Question Bank Development](project-instructions/2-design-and-build-solution-2/2.1-question-bank-development.md)
   * [2.2 Interface Mockups](project-instructions/2-design-and-build-solution-2/2.2-interface-mockups.md)
@@ -25,5 +24,7 @@
 * [Examples\*](examples.md)
 * [Rubrics\*](rubrics.md)
 
-## Instruction Repository
+## Ignore Below \(Testing\)
+
+* [2 Design & Build Solutio\*](instruction-repository/2-design-and-build-solution-1.md)
 
