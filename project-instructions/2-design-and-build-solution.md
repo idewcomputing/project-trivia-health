@@ -24,7 +24,7 @@ Provide enough visual and interactive detail in your interactive prototype to al
 Each team member should evaluate the prototype by having two people individually play the prototype game using the [**think-aloud protocol**](https://docs.idew.org/principles-and-practices/practices/design-practices/think-aloud-protocol). Synthesize your results and define important decisions for your trivia design before coding begins.  
 **❏ Deliverable: A document or slide that summarizes the results of your prototype evaluation.**
 
-**2.5 Code Development Outline**  
+**2.5 Code Development Outline and Begin Coding**  
 Outline the features to program by priority--core features, enhanced features, and wish list features. This is an example of a basic [**requirements document**](https://docs.idew.org/principles-and-practices/practices/programming-practices/requirements-document). Begin coding and maintain well organized code as you progress towards your first full demonstration.  
 **❏ Deliverable: A document or slide that outlines your progressive development plan.**
 
