@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Trivia for Improved Health and Wellness](README.md)
-* [Challenge & Background](challenge-and-background.md)
-* [Skills & Exploration](skills-and-exploration.md)
-* [Prerequisite Experience](https://docs.idew.org/code-trivia/prerequisites)
 * [Intro Exercises](https://docs.idew.org/intro-to-learning/)
+* [Challenge & Background](challenge-and-background.md)
+* [Prerequisite Experience](https://docs.idew.org/code-trivia/prerequisites)
+* [Skills & Exploration](skills-and-exploration.md)
 
 ## Project Instructions
 
