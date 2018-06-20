@@ -1,6 +1,6 @@
 # Challenge & Background
 
-![](.gitbook/assets/trivia-health-challenge-reduced%20%282%29.png)
+![](../.gitbook/assets/trivia-health-challenge-reduced%20%282%29.png)
 
 There are many health issues to consider that impact our communities. Your team will want to carefully choose a topic that is important to each team member and that can be positively engaged through a well-designed trivia game.
 
@@ -14,7 +14,7 @@ There are many health issues to consider that impact our communities. Your team 
 
 Each project team will follow a process to thoughtfully develop a trivia app while practicing a diverse set of skills in a collaborative environment.
 
-![](.gitbook/assets/trivia-phases-drawing-alpha%20%281%29.png)
+![](../.gitbook/assets/trivia-phases-drawing-alpha%20%281%29.png)
 
 ## Teams
 
