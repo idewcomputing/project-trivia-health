@@ -40,7 +40,6 @@
 ## Reference
 
 * [Trivia Code Docs](https://cxd.gitbook.io/code-trivia)
-* [Principles & Practices](https://docs.idew.org/principles-and-practices/)
 * [P5.js](https://p5js.org/)
 
 ## Ignore Below \(Testing\)
