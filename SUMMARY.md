@@ -42,8 +42,6 @@
 * [Trivia Code Docs](https://cxd.gitbook.io/code-trivia)
 * [Principles & Practices](https://docs.idew.org/principles-and-practices/)
 * [P5.js](https://p5js.org/)
-* [Examples\*](reference/examples.md)
-* [Rubrics\*](reference/rubrics.md)
 
 ## Ignore Below \(Testing\)
 
@@ -52,4 +50,6 @@
 * [3 Evaluate & Refine Solution](ignore-below-testing/3-evaluate-and-refine-solution.md)
 * [4 Share Project with Public](ignore-below-testing/4-share-project-with-public.md)
 * [2 Design & Build Solutio\*](ignore-below-testing/2-design-and-build-solutio.md)
+* [Examples\*](ignore-below-testing/examples.md)
+* [Rubrics\*](ignore-below-testing/rubrics.md)
 
