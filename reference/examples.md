@@ -4,11 +4,11 @@
 
 ### 2.1 Question Database Development
 
-![](.gitbook/assets/questiondb.png)
+![](../.gitbook/assets/questiondb.png)
 
 ### 2.2 Interface Mockups
 
-![](.gitbook/assets/mockupsreduced%20%281%29.png)
+![](../.gitbook/assets/mockupsreduced%20%281%29.png)
 
 ### 2.3 Interactive Prototype
 
@@ -16,17 +16,17 @@
 
 ### 2.4 Prototype Evaluation
 
-![](.gitbook/assets/prototypeevalexample.png)
+![](../.gitbook/assets/prototypeevalexample.png)
 
 ### 2.5 Code Development Outline
 
-![](.gitbook/assets/codedev.png)
+![](../.gitbook/assets/codedev.png)
 
 ### 2.6 Marketing Card
 
-![](.gitbook/assets/marketingcard.png)
+![](../.gitbook/assets/marketingcard.png)
 
 ### 2.7 Code Testing
 
-![This is a template for recording results of code testing.](.gitbook/assets/codetestingexample.png)
+![This is a template for recording results of code testing.](../.gitbook/assets/codetestingexample.png)
 
