@@ -14,28 +14,27 @@ This is a list of quality tutorials for programming, but there are many more ava
 
 Exploration is an important activity for students and professionals alike that leads to new opportunities. You could conduct some research and generate a written report and/or a presentation to share with others. **Below is an example for a** _**trend report**_**, but you could do something similar on any topic or career in technology.**
 
-### **Trend Report - What’s New in Tech that’s Interesting?**
-
-It is difficult to keep up with all the new technology advances. So each student in the class will prepare a trend report on a new product or service \(or research concept\)  that interests him or her. Then each student will present the report to the class based on a schedule given in class. This way we can all learn.
-
-**Possible Resources:**  
-[**ReadWrite**](http://readwrite.com/)  
-****[**Indiegogo**](https://www.indiegogo.com/explore/technology#/browse/popular_all)  
-****[**Wired**](http://www.wired.com/)  
-****[**The Verge**](http://www.theverge.com)  
-****[**Fast Company**](http://www.fastcompany.com/)  
-****[**MIT Technology Review**](http://www.technologyreview.com/)  
-****[**Kickstarter**](https://www.kickstarter.com/)  
-****[**IFTTT Channels**](https://ifttt.com/channels)
-
-**Standard Deliverable ✓**  
-Prepare a slide presentation \(3 or more slides\) that covers the following three items. Be sure to research a cutting edge idea--either a new product that breaks the mold or a concept that is only in research.
-
-1. Fully describe the technology and use. What is it? Who will use it? How does it work?
-2. Explain what makes it novel or different. How is it different than current products or services?
-3. Why do you find the technology so interesting?
-
-**Advanced Deliverable ✓+**  
-Prepare a question or two to ask the class about the topic and lead a short discussion.  
-
+> ### **Trend Report - What’s New in Tech that’s Interesting?**
+>
+> It is difficult to keep up with all the new technology advances. So each student in the class will prepare a trend report on a new product or service \(or research concept\)  that interests him or her. Then each student will present the report to the class based on a schedule given in class. This way we can all learn.
+>
+> **Possible Resources:**  
+> [**ReadWrite**](http://readwrite.com/)  
+> ****[**Indiegogo**](https://www.indiegogo.com/explore/technology#/browse/popular_all)  
+> ****[**Wired**](http://www.wired.com/)  
+> ****[**The Verge**](http://www.theverge.com)  
+> ****[**Fast Company**](http://www.fastcompany.com/)  
+> ****[**MIT Technology Review**](http://www.technologyreview.com/)  
+> ****[**Kickstarter**](https://www.kickstarter.com/)  
+> ****[**IFTTT Channels**](https://ifttt.com/channels)
+>
+> **Standard Deliverable ✓**  
+> Prepare a slide presentation \(3 or more slides\) that covers the following three items. Be sure to research a cutting edge idea--either a new product that breaks the mold or a concept that is only in research.
+>
+> 1. Fully describe the technology and use. What is it? Who will use it? How does it work?
+> 2. Explain what makes it novel or different. How is it different than current products or services?
+> 3. Why do you find the technology so interesting?
+>
+> **Advanced Deliverable ✓+**  
+> Prepare a question or two to ask the class about the topic and lead a short discussion.
 
