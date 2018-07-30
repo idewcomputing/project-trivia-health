@@ -1,5 +1,11 @@
 # Trivia for Improved Health and Wellness
 
+### This is a guidebook for building a trivia application. You will work in teams to research, design, build, and evaluate your own application. 
+
+### [Start with the _Challenge and Background_.](challenge-and-background/)
+
+## 
+
 Copyright © 2018 Jim Lyst and Michael Frontz, Indiana University School of Informatics and Computing at IUPUI
 
 Part of the _Computing by Design_ high school curriculum developed for the [Informatics Diversity-Enhanced Workforce \(iDEW\) Program](http://soic.iupui.edu/idew/)
