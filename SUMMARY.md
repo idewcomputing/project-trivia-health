@@ -2,7 +2,7 @@
 
 * [Trivia for Improved Health and Wellness](README.md)
 * [Challenge & Background](challenge-and-background/README.md)
-  * [Prerequisite Experience](https://docs.idew.org/code-trivia/prerequisites)
+  * [Prerequisite Experience](https://docs.idew.org/code-trivia/prerequisite-knowledge)
   * [Skills & Exploration](challenge-and-background/skills-and-exploration.md)
 * [Intro Exercises](https://docs.idew.org/intro-to-learning/)
 
