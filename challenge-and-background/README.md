@@ -7,7 +7,7 @@ There are many health issues to consider that impact our communities. Your team 
 #### General Topics to consider
 
 | Opioid Addiction Mental Health Obesity | Diabetes Alcoholism Heart Disease | Cancer Nutrition Fitness |
-| --- |
+| :--- | :--- | :--- |
 
 
 ## Process
@@ -22,7 +22,7 @@ Teams of 3 students will collaborate to build a web-based trivia app. Each team 
 
 ## Technology
 
-Teams will begin with a [**trivia app template**](https://cxd.gitbook.io/code-trivia) as a framework to build their customized solution. The template consists of HTML/CSS/Javascript as well as a simple cloud database for organizing trivia question items.
+Teams will begin with a [**trivia app template**](https://cxd.gitbook.io/code-trivia) as a framework to build their customized solution. The template consists of HTML/CSS/Javascript as well as a simple cloud database for organizing trivia question items. [**Here is a live example**](https://trivia2018--jimlyst.repl.co/) of the template, but it is boring right now--that's up to you to change.
 
 ## Final Deliverables
 
@@ -94,6 +94,6 @@ While this digital book guides your project work, below are important suggestion
 **Weekly Schedule** - A predictable pattern to the week may help. For example...
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
-| --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- |
 | Project | Project | Project | Independent Skills | Visitors & Exploration Reports |
 
