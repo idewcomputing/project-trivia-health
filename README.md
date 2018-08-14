@@ -1,6 +1,6 @@
 # Trivia for Improved Health and Wellness
 
-### This is a guidebook for building a trivia application. You will work in teams to research, design, build, and evaluate your own application. 
+### This is a guidebook for building a trivia application that works in a browser. You will work in a team to research, design, build, and evaluate your own application. 
 
 ### [Start with the _Challenge and Background_.](challenge-and-background/)
 
