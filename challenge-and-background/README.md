@@ -22,7 +22,7 @@ Teams of 3 students will collaborate to build a web-based trivia app. Each team 
 
 ## Technology
 
-Teams will begin with a [**trivia app template**](https://cxd.gitbook.io/code-trivia) as a framework to build their customized solution. The template consists of HTML/CSS/Javascript as well as a simple cloud database for organizing trivia question items. [**Here is a live example**](https://trivia2018--jimlyst.repl.co/) of the template, but it is boring right now--that's up to you to change.
+Teams will begin with a [**trivia app template**](https://docs.idew.org/code-trivia/) as a framework to build their customized solution. The template consists of HTML/CSS/Javascript as well as a simple cloud database for organizing trivia question items. [**Here is a live example**](https://trivia2018--jimlyst.repl.co/) of the template, but it is boring right now--that's up to you to change.
 
 ## Final Deliverables
 
