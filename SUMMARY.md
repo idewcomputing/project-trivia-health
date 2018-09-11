@@ -39,6 +39,6 @@
 
 ## Reference
 
-* [Trivia Code Docs](https://cxd.gitbook.io/code-trivia)
+* [Trivia Code Docs](https://docs.idew.org/code-trivia/)
 * [P5.js](https://p5js.org/)
 
