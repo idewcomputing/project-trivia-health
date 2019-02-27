@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Trivia for Improved Health and Wellness](README.md)
+* [Trivia App](README.md)
 * [Challenge & Background](challenge-and-background/README.md)
   * [Prerequisite Experience](https://docs.idew.org/code-trivia/prerequisite-knowledge)
   * [Skills & Exploration](challenge-and-background/skills-and-exploration.md)
