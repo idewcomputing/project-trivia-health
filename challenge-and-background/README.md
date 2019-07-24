@@ -1,14 +1,8 @@
 # Challenge & Background
 
-![](../.gitbook/assets/trivia-health-challenge-reduced%20%282%29.png)
+## Project Challenge
 
-There are many health issues to consider that impact our communities. Your team will want to carefully choose a topic that is important to each team member and that can be positively engaged through a well-designed trivia game.
-
-#### General Topics to consider
-
-| Opioid Addiction Mental Health Obesity | Diabetes Alcoholism Heart Disease | Cancer Nutrition Fitness |
-| :--- | :--- | :--- |
-
+Create a customized trivia app that provides value to a target audience of your choice. Your teacher may direct you to a particular theme, like health or careers, for you to consider. The trivia app could be used as a fun way to raise awareness on a topic or quiz somebody on content they should know. Ultimately you want design a game to engage people and provide a particular value that you define.
 
 ## Process
 
