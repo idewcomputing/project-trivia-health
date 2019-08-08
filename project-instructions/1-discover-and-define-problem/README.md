@@ -10,3 +10,13 @@ In this phase you well begin to **frame the goals** of your team's design by lea
 
 After conducting research, you will develop initial design ideas and **compose a clear value proposition** that defines _what your team will create, for whom, and the value it will bring_**.** Finally, you will present a proposal to your class and the community for feedback, helping you refine your design direction moving into the next project phase.
 
+| Task | Estimated Time |
+| :--- | :--- |
+| Trivia Code Tutorial | 4 hours |
+| Competitive Analysis | 2 hours |
+| Background Research | 1 hour |
+| Personas | 1 hour |
+| Interaction Storyboard Sketches | 1 hour |
+| Value Proposition | 1 hour |
+| Team Proposal | 1 hour |
+

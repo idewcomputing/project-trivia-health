@@ -4,3 +4,16 @@
 
 **Design a prototype** of the solution for a detailed internal review and evaluation by a sample of stakeholders. Based on what you learn from your prototype, organize a development strategy to methodically **program and style your solution** with efficiency and quality. Also prepare for the promotion and launch of your solution, and conduct unit testing to ensure all is in working order before an in-class demonstration.
 
+Many of the tasks for this stage may occur in parallel with occasional starts and stops appropriate for your development progress.
+
+| Task | Estimated Time |
+| :--- | :--- |
+| Question Bank Development | 3 hours |
+| Interface Mockups | 2 hours |
+| Interactive Prototype | 1 hour |
+| Prototype Evaluation | 1 hour |
+| Code Development Outline & Begin Coding | 6 hours |
+| Marketing Card | 1 hour |
+| Code Testing | 2 hours |
+| Prepare Development Review and Demonstration | 2 hours |
+
