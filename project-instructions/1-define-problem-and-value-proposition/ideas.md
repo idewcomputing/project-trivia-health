@@ -1,0 +1,29 @@
+# Initial Ideas & Evaluation
+
+{% tabs %}
+{% tab title="✓  INSTRUCTIONS & DELIVERABLE" %}
+Each team member will create a unique interaction storyboard concept based on your understanding about the stakeholders, the trivia code, and a health topic. Each concept \(interaction storyboard sketch\) should contain four screen sketches that represent the welcome screen, question screen, correct answer feedback, and incorrect answer feedback.
+
+Your goal is to have several unique design concepts \(even though they address the same trivia topic\) to consider as you move forward. You will be able to get some feedback during your proposals on these different ideas.
+
+On why to sketch: [**Etch A Sketch: How to Use Sketching in User Experience Design**](https://www.interaction-design.org/literature/article/etch-a-sketch-how-to-use-sketching-in-user-experience-design)  
+****Check out the first part of [**this video**](https://www.youtube.com/watch?v=LskLyDOSfAc)**.**  
+[**This video**](https://www.youtube.com/watch?v=MwidSAlbEB8) provides some nice sketching techniques too.
+
+**❏ Deliverable**  
+Collect your team's storyboard sketches into a single document or slide set.
+{% endtab %}
+
+{% tab title="⦿ EXAMPLE" %}
+
+
+![](../../.gitbook/assets/interface-storyboard-example%20%281%29.jpg)
+{% endtab %}
+
+{% tab title="★  RUBRIC" %}
+| ✓-  Below Standard | ✓  At Standard | ✓+  Above Standard |
+| :--- | :--- | :--- |
+| **Storyboard sketches** were completed but only brought a vague understanding of the team's initial ideas. | Storyboard sketches were clear and presented concepts that will positively influence upcoming design work. | Storyboard sketches represented exceptionally clear and detailed concepts, that provide continuity with the research and provide great launching points into upcoming design work. |
+{% endtab %}
+{% endtabs %}
+

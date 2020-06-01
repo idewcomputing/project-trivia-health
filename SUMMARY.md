@@ -1,22 +1,19 @@
 # Table of contents
 
-* [Trivia App](README.md)
-* [Challenge & Background](challenge-and-background/README.md)
-  * [Prerequisite Experience](https://docs.idew.org/code-trivia/prerequisite-knowledge)
-  * [Skills & Exploration](challenge-and-background/skills-and-exploration.md)
-* [Intro Exercises](https://docs.idew.org/intro-to-learning/)
+* [Challenge & Background](README.md)
+* [About](about.md)
 
 ## Project Instructions
 
-* [1 Discover & Define Problem](project-instructions/1-discover-and-define-problem/README.md)
-  * [1.1 Trivia Code Tutorial](project-instructions/1-discover-and-define-problem/1.1-trivia-code-tutorial.md)
-  * [1.2 Competitive Analysis](project-instructions/1-discover-and-define-problem/1.2-competitive-analysis.md)
-  * [1.3 Background Research](project-instructions/1-discover-and-define-problem/1.3-background-research.md)
-  * [1.4 Personas](project-instructions/1-discover-and-define-problem/1.4-personas.md)
-  * [1.5 Interaction Storyboard Sketches](project-instructions/1-discover-and-define-problem/1.5-interaction-storyboard-sketches.md)
-  * [1.6 Value Proposition](project-instructions/1-discover-and-define-problem/1.6-value-proposition.md)
-  * [1.7 Team Proposal](project-instructions/1-discover-and-define-problem/1.7-team-proposal.md)
-* [2 Design & Build Solution](project-instructions/2-design-and-build-solution/README.md)
+* [1 DEFINE PROBLEM & VALUE PROPOSITION](project-instructions/1-define-problem-and-value-proposition/README.md)
+  * [Problem Definition & Importance](project-instructions/1-define-problem-and-value-proposition/problem-def.md)
+  * [Technology Experimentation & Summary](project-instructions/1-define-problem-and-value-proposition/tech.md)
+  * [Initial Ideas & Evaluation](project-instructions/1-define-problem-and-value-proposition/ideas.md)
+  * [Existing Solution Analysis](project-instructions/1-define-problem-and-value-proposition/existing.md)
+  * [Stakeholder Profiles & Narratives](project-instructions/1-define-problem-and-value-proposition/stakeholders.md)
+  * [Value Proposition & Potential Features Map](project-instructions/1-define-problem-and-value-proposition/value.md)
+  * [PROPOSAL PRESENTATION](project-instructions/1-define-problem-and-value-proposition/proposal.md)
+* [2 DESIGN & BUILD SOLUTION](project-instructions/2-design-and-build-solution/README.md)
   * [2.1 Question Bank Development](project-instructions/2-design-and-build-solution/2.1-question-bank-development.md)
   * [2.2 Interface Mockups](project-instructions/2-design-and-build-solution/2.2-interface-mockups.md)
   * [2.3 Interactive Prototype](project-instructions/2-design-and-build-solution/2.3-interactive-prototype.md)
@@ -31,14 +28,12 @@
   * [3.3 App Refinements](project-instructions/3-evaluate-and-refine-solution/3.3-app-refinements.md)
   * [3.4 Poster](project-instructions/3-evaluate-and-refine-solution/3.4-poster.md)
   * [3.5 Prepare for Poster Review and Trivia Demonstration](project-instructions/3-evaluate-and-refine-solution/3.5-prepare-for-poster-review-and-trivia-demonstration.md)
-* [4 Share Project with Public](project-instructions/4-share-project-with-public/README.md)
-  * [4.1 Public Presentation Plan and Practice](project-instructions/4-share-project-with-public/4.1-public-presentation-plan-and-practice.md)
-  * [4.2 Individual Reflection](project-instructions/4-share-project-with-public/4.2-individual-reflection.md)
-  * [4.3 Present to the public](project-instructions/4-share-project-with-public/4.3-present-to-the-public.md)
-  * [4.4 Celebrate](project-instructions/4-share-project-with-public/4.4-celebrate.md)
+  * [3.6 Public Presentation Plan and Practice](project-instructions/3-evaluate-and-refine-solution/4.1-public-presentation-plan-and-practice.md)
+  * [3.7 Individual Reflection](project-instructions/3-evaluate-and-refine-solution/4.2-individual-reflection.md)
+  * [3.8 Present to the public](project-instructions/3-evaluate-and-refine-solution/4.3-present-to-the-public.md)
+  * [3.9 Celebrate](project-instructions/3-evaluate-and-refine-solution/4.4-celebrate.md)
 
 ## Reference
 
 * [Trivia Code Docs](https://docs.idew.org/code-trivia-app/)
-* [P5.js](https://p5js.org/)
 

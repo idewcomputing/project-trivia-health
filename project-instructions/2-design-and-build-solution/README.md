@@ -1,4 +1,4 @@
-# 2 Design & Build Solution
+# 2 DESIGN & BUILD SOLUTION
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LDwztHMrXO6GrtroBEo%2F-LEQ9VDkP03dM68IKi17%2F-LEQ9XIMkXyhnM2fRLfC%2FTrivia-Phase-2-Drawing-Alpha-reduced.png?alt=media&token=f4cc8676-f82b-4bda-9656-bb7d16db472b)
 

@@ -1,0 +1,27 @@
+# Value Proposition & Potential Features Map
+
+{% tabs %}
+{% tab title="✓  INSTRUCTIONS & DELIVERABLE" %}
+Value propositions clearly define key aspects of your design that demonstrate it is a valuable and worthwhile product or service. It provides focus for the design of many types of services or products. Here is a template to get you started.
+
+> **For** _\[describe target users\]_ **who** _\[describe problem or need\], \[name of product/service\]_ **is a** _\[describe type of product/service\]_ **that** _\[describe benefit or value\]._
+
+As a team, review all of your work and discuss several possible design directions before settling in on one single value proposition. You will want this statement to be clear, concise, and compelling. It should be supported by your research and analysis up to this point.
+
+**❏ Deliverable**  
+A single page document or slide with your team's value proposition.
+{% endtab %}
+
+{% tab title="⦿ EXAMPLE" %}
+
+
+![](../../.gitbook/assets/valuepropositionexample2%20%281%29.png)
+{% endtab %}
+
+{% tab title="★  RUBRIC" %}
+| ✓-  Below Standard | ✓  At Standard | ✓+  Above Standard |
+| :--- | :--- | :--- |
+| **Value proposition** is provided but is not clear or does not offer a compelling need for the proposed solution. | Value proposition is clear and supported by the team's research. | Value proposition is especially convincing and generates anticipation to see the rest of the project. The value to stakeholders is compelling. |
+{% endtab %}
+{% endtabs %}
+
