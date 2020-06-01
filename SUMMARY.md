@@ -22,7 +22,7 @@
   * [2.6 Marketing card](project-instructions/2-design-and-build-solution/2.6-marketing-card.md)
   * [2.7 Code Testing](project-instructions/2-design-and-build-solution/2.7-code-testing.md)
   * [2.8 Prepare Development Review and Demonstration](project-instructions/2-design-and-build-solution/2.8-prepare-development-review-and-demonstration.md)
-* [3 Evaluate & Refine Solution](project-instructions/3-evaluate-and-refine-solution/README.md)
+* [3 EVALUATE & REFINE SOLUTION](project-instructions/3-evaluate-and-refine-solution/README.md)
   * [3.1 Evaluation and Post Interview](project-instructions/3-evaluate-and-refine-solution/3.1-evaluation-and-post-interview.md)
   * [3.2 Initial Question Analysis](project-instructions/3-evaluate-and-refine-solution/3.2-initial-question-analysis.md)
   * [3.3 App Refinements](project-instructions/3-evaluate-and-refine-solution/3.3-app-refinements.md)

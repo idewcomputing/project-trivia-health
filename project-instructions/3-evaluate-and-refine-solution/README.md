@@ -1,4 +1,4 @@
-# 3 Evaluate & Refine Solution
+# 3 EVALUATE & REFINE SOLUTION
 
 ![](../../.gitbook/assets/trivia-phase-3-drawing-alpha-reduced.png)
 
