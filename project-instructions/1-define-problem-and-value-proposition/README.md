@@ -12,10 +12,11 @@ After conducting research, you will develop initial design ideas and **compose a
 
 | Task | Estimated Time |
 | :--- | :--- |
-| Trivia Code Tutorial | 4 hours |
+| Problem Definition & Importance | 1 hour |
+| Technology Experimentation \(Trivia Code Tutorial\) | 4 hours |
+| Initial Ideas & Evaluation | 1 hour |
 | Competitive Analysis | 2 hours |
-| Background Research | 1 hour |
-| Personas | 1 hour |
+| Stakeholder Profiles & Narratives | 2 hours |
 | Interaction Storyboard Sketches | 1 hour |
 | Value Proposition | 1 hour |
 | Team Proposal | 1 hour |
