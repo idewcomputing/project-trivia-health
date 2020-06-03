@@ -30,6 +30,7 @@ Create a team idea map and ****collect your team's storyboard sketches into a si
 | ✓-  Below Standard | ✓  At Standard | ✓+  Above Standard |
 | :--- | :--- | :--- |
 | **Storyboard sketches** were completed but only brought a vague understanding of the team's initial ideas. | Storyboard sketches were clear and presented concepts that will positively influence upcoming design work. | Storyboard sketches represented exceptionally clear and detailed concepts, that provide continuity with the research and provide great launching points into upcoming design work. |
+| Idea map demonstrated some effort in thinking about potential directions, but lacked rigor or did not demonstrate a collaborative mindset. | Idea map demonstrated creative thinking and a collaborative mindset coupled with a simple analysis of each idea. | Idea map demonstrated creative thinking and the team demonstrated a thoughtfully open process in their generating diverse ideas without judgement followed by a agreeable method of analyzing each idea's potential. |
 {% endtab %}
 {% endtabs %}
 
