@@ -14,6 +14,7 @@
   * [Value Proposition & Potential Features Map](project-instructions/1-define-problem-and-value-proposition/value.md)
   * [PROPOSAL PRESENTATION](project-instructions/1-define-problem-and-value-proposition/proposal.md)
 * [2 DESIGN & BUILD SOLUTION](project-instructions/2-design-and-build-solution/README.md)
+  * [Prototypes](project-instructions/2-design-and-build-solution/prototypes.md)
   * [Question Bank Development](project-instructions/2-design-and-build-solution/2.1-question-bank-development.md)
   * [Interface Mockups](project-instructions/2-design-and-build-solution/2.2-interface-mockups.md)
   * [Interactive Prototype](project-instructions/2-design-and-build-solution/2.3-interactive-prototype.md)
