@@ -2,6 +2,7 @@
 
 * [Challenge & Background](README.md)
 * [About](about.md)
+* [Intro Exercises](https://docs.idew.org/intro-to-learning/)
 
 ## Project Instructions
 
