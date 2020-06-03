@@ -26,6 +26,7 @@ See feature map example in [this article](https://www.lucidchart.com/blog/how-to
 | ✓-  Below Standard | ✓  At Standard | ✓+  Above Standard |
 | :--- | :--- | :--- |
 | **Value proposition** is provided but is not clear or does not offer a compelling need for the proposed solution. | Value proposition is clear and supported by the team's research. | Value proposition is especially convincing and generates anticipation to see the rest of the project. The value to stakeholders is compelling. |
+| **Features map** demonstrated little thought in breaking down a solution into needed parts. | Features map demonstrated a thoughtful attempt to define needed features. | Features map demonstrated a particularly careful consideration of a the priority of features to the solution. |
 {% endtab %}
 {% endtabs %}
 
