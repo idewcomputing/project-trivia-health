@@ -28,6 +28,7 @@ Collect your team's personas and storyboards into a single document or slide set
 | ✓-  Below Standard | ✓  At Standard | ✓+  Above Standard |
 | :--- | :--- | :--- |
 | **Stakeholder personas** are provided but lack clarity and offer limited value in understanding the stakeholders. | Stakeholder personas provide thoughtful descriptions of people that will guide the design of a valuable solution. | Stakeholder personas are vivid descriptions that will bring exceptional focus to the team's development work.  |
+| **Storyboards** lacked a clear narrative or provide little description. | Storyboards outlined the before, during, and after narrative with clarity. | Storyboards demonstrated a careful and insightful perspective on potential narratives. |
 {% endtab %}
 {% endtabs %}
 
