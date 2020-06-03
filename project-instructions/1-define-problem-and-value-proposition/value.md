@@ -6,16 +6,20 @@ Value propositions clearly define key aspects of your design that demonstrate it
 
 > **For** _\[describe target users\]_ **who** _\[describe problem or need\], \[name of product/service\]_ **is a** _\[describe type of product/service\]_ **that** _\[describe benefit or value\]._
 
-As a team, review all of your work and discuss several possible design directions before settling in on one single value proposition. You will want this statement to be clear, concise, and compelling. It should be supported by your research and analysis up to this point.
+As a team, review all of your work and discuss several possible design directions before settling in on one single value proposition. You will want this statement to be clear, concise, and compelling. It should be supported by your research and analysis up to this point.  
+  
+Begin to map out the features of your solution. This will likely be updated as you go, but start to think about each feature \(also could be called user stories\) that your solution will provide. [This article](https://www.lucidchart.com/blog/how-to-create-a-user-story-map) will give you a good introduction to the concept and you can use [**this template**](https://docs.google.com/drawings/d/1WNleGTzUupwiWIb1esoy2MyjjElvO0_g9QTXmqzvr5U/edit?usp=sharing) ****to get started with the map. Again, this is just a draft of your intended features to provide users and will be adapted later.
 
 **❏ Deliverable**  
-A single page document or slide with your team's value proposition.
+A document or slide with your team's value proposition and a draft features map.
 {% endtab %}
 
 {% tab title="⦿ EXAMPLE" %}
 
 
 ![](../../.gitbook/assets/valuepropositionexample2%20%281%29.png)
+
+See feature map example in [this article](https://www.lucidchart.com/blog/how-to-create-a-user-story-map).
 {% endtab %}
 
 {% tab title="★  RUBRIC" %}
