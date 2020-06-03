@@ -6,8 +6,10 @@ Each team member will complete [**the code template build tutorial**](https://do
 
 ==&gt; [**LINK TO TEMPLATE BUILD TUTORIAL**](https://docs.idew.org/code-trivia/code-template/template-build-tutorial) **\(9 STEPS\)**
 
+As a team review, you can map out the potential features of a trivia app according to the level of impact a feature might have on a user and the level of difficulty in implementing the feature with code. This should help you with the decisions you will make later about your solution. [**Here is a template**](https://docs.google.com/drawings/d/1n55ygr5kp6ZoyvPOi1tDcqNdOw-6WKjfourR6KabJUk/edit?usp=sharing) you could use to complete a map.
+
 **❏ Deliverable**  
-Demonstrate that you have completed the build tutorial, created a question database and can discuss how the code works.
+Demonstrate that you have completed the build tutorial, created a question database and can discuss how the code works. Optionally, share your team's mapping of potential features.
 
 **❏ Advanced Deliverable**  
 Demonstrate that you have made modifications to the trivia app in the following ways.
