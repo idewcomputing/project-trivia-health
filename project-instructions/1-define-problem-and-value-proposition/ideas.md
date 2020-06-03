@@ -4,7 +4,7 @@
 {% tab title="✓  INSTRUCTIONS & DELIVERABLE" %}
 #### Idea Map
 
-As a team, simply map out your ideas for your trivia game based on your team's interest and the potential value \(or impact\) the idea may have with your target audience. There are no strict rules on how to do this. You simply want to entertain all the ideas and begin to evaluate which one's have the most promise. [**Idea Map Template**](https://docs.google.com/drawings/d/1GgfjGPcJrnFnKk6FPTni_F32g2MlhxaJXBVnca0Lrq0/edit?usp=sharing)\*\*\*\*
+As a team, simply map out ideas for your trivia game based on your team's interest and the potential value \(or impact\) the idea may have with your target audience. There are no strict rules on how to do this. You simply want to entertain all the ideas and begin to evaluate which ideas have the most promise. [**Idea Map Template**](https://docs.google.com/drawings/d/1GgfjGPcJrnFnKk6FPTni_F32g2MlhxaJXBVnca0Lrq0/edit?usp=sharing)\*\*\*\*
 
 #### Interaction Storyboard \(Interface Sketches\)
 
