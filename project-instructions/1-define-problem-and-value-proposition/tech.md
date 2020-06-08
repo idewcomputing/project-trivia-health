@@ -18,6 +18,10 @@ Demonstrate that you have made modifications to the trivia app in the following 
 2. Choose and incorporate at least one Javascript code modification from [**this section of the Trivia Code Reference**](https://docs.idew.org/code-trivia/advanced/code-mod-examples).
 {% endtab %}
 
+{% tab title="⦿ EXAMPLE" %}
+![](../../.gitbook/assets/example-of-technical-options-map.png)
+{% endtab %}
+
 {% tab title="★  RUBRIC" %}
 | ✓-  Below Standard | ✓  At Standard | ✓+  Above Standard |
 | :--- | :--- | :--- |

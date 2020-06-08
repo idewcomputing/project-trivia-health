@@ -19,6 +19,8 @@ A document or slide with your team's value proposition and a draft features map.
 
 ![](../../.gitbook/assets/valuepropositionexample2%20%281%29.png)
 
+![](../../.gitbook/assets/example-of-story_feature-mapping-template.png)
+
 See feature map example in [this article](https://www.lucidchart.com/blog/how-to-create-a-user-story-map).
 {% endtab %}
 
