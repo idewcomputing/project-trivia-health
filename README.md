@@ -1,8 +1,10 @@
 # Challenge & Background
 
+![Screenshot of a Trivia Example](.gitbook/assets/countdown.gif)
+
 ## Project Challenge
 
-Create a customized trivia app that provides value to a target audience of your choice. Your teacher may direct you to a particular theme, like health or careers. The trivia app could be an engaging way to raise awareness on a topic people may not know very well, or it could be a quiz on content they should know. Ultimately you want design a game to engage people and provide a particular value that you define.
+Create a customized trivia app that provides value to a target audience of your choice. Your teacher may direct you to a particular theme, like health or careers. **Will you provide an engaging way to raise awareness on a topic people may not know very well, or will you develop a quiz on content to help everybody ace their next exam?** Ultimately you want design a game to engage people and provide a particular value that you define.
 
 ## Background
 
